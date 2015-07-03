@@ -1,9 +1,9 @@
 # Mobirise
-## [Mobile Website Builder](http://mobirise.com/)
+## [Mobile Bootstrap Website Builder](http://mobirise.com/)
 
 ### Create beautiful mobile-first websites!
 
-[MobiRise Website Builder](http://mobirise.com/) creates responsive, retina and mobile friendly websites in a few clicks. Easy and fast.
+[MobiRise Bootstrap Website Builder](http://mobirise.com/) creates responsive, retina and mobile friendly websites in a few clicks. Easy and fast.
 
 ### Drag and drop website builder 
 Make your own mobile website in minutes! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.
