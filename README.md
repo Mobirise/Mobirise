@@ -22,11 +22,11 @@ Whether you want to create a blog, eCommerce store, portfolio, or all of the abo
 * "Preview" button to test your site in the browser
 
 <a href="http://mobirise.com">
-<img src="https://36.media.tumblr.com/335f9767cee1c974f3b0f417684144e6/tumblr_nr7zof09jF1uaw61eo1_1280.jpg">
+<img src="https://40.media.tumblr.com/335f9767cee1c974f3b0f417684144e6/tumblr_nr7zof09jF1uaw61eo1_540.jpg.jpg">
 </a>
 
 <a href="http://mobirise.com">
-<img src="https://40.media.tumblr.com/089c102da397b8644b4ec384dd172440/tumblr_nr7zmkbQUh1uaw61eo1_1280.jpg">
+<img src="https://41.media.tumblr.com/089c102da397b8644b4ec384dd172440/tumblr_nr7zmkbQUh1uaw61eo1_540.jpg">
 </a>
 
 <a href="http://mobirise.com">
@@ -34,14 +34,14 @@ Whether you want to create a blog, eCommerce store, portfolio, or all of the abo
 </a>
 
 <a href="http://mobirise.com">
-<img src="https://41.media.tumblr.com/fbebb626e122d65cdd5068989d3dbc17/tumblr_nr7zix2ioX1uaw61eo1_1280.jpg">
+<img src="https://41.media.tumblr.com/fbebb626e122d65cdd5068989d3dbc17/tumblr_nr7zix2ioX1uaw61eo1_540.jpg">
 </a>
 
 <a href="http://mobirise.com">
-<img src="https://40.media.tumblr.com/704f76a8a63ee14bb28d5724fb0af655/tumblr_nr7zherECD1uaw61eo1_1280.jpg">
+<img src="https://40.media.tumblr.com/704f76a8a63ee14bb28d5724fb0af655/tumblr_nr7zherECD1uaw61eo1_540.jpg">
 </a>
 
 <a href="http://mobirise.com">
-<img src="https://41.media.tumblr.com/0772d12e6c31db2e16f9203fd9537e60/tumblr_nr7zdrKMnq1uaw61eo1_1280.jpg">
+<img src="https://41.media.tumblr.com/0772d12e6c31db2e16f9203fd9537e60/tumblr_nr7zdrKMnq1uaw61eo1_540.jpg">
 </a>
 
