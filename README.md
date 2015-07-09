@@ -21,4 +21,6 @@ Whether you want to create a blog, eCommerce store, portfolio, or all of the abo
 * Video background for all blocks 
 * "Preview" button to test your site in the browser
 
+<a href="http://mobirise.com">
 <img src="https://41.media.tumblr.com/6105df5ef089606892670c9e7ee95d39/tumblr_nr7zkel6jg1uaw61eo1_540.jpg">
+</a>
