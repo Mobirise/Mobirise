@@ -45,3 +45,11 @@ Whether you want to create a blog, eCommerce store, portfolio, or all of the abo
 <img src="https://41.media.tumblr.com/0772d12e6c31db2e16f9203fd9537e60/tumblr_nr7zdrKMnq1uaw61eo1_540.jpg">
 </a>
 
+<a href="http://mobirise.com/video-background/">
+<img src="https://40.media.tumblr.com/d4e57dfd4751bdc7779d03d00da2a05b/tumblr_nrknrkjU3m1uaw61eo1_540.jpg">
+</a>
+
+<a href="http://mobirise.com/parallax-scrolling/">
+<img src="https://41.media.tumblr.com/d17404f9cdf0d84197be6365bb57ce29/tumblr_nrkmuxl8GM1uaw61eo1_540.jpg">
+</a>
+
