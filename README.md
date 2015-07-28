@@ -55,4 +55,20 @@ Whether you want to create a blog, eCommerce store, portfolio, or all of the abo
 
 ### Main changes in Mobirise v1.7:
 * New Footer, "Follow Us", "Testimonials" blocks
-* Now you can edit and reorder menu items inline
+* Now you can edit and reorder menu items inline 
+
+<a href="http://mobirise.com">
+<img src="https://m2.behance.net/rendition/pm/28262791/max_1200/2dce1ecf7314e2a4de389bdc20fcc26c.jpg">
+</a>
+
+<a href="http://mobirise.com">
+<img src="https://41.media.tumblr.com/0772d12e6c31db2e16f9203fd9537e60/tumblr_nr7zdrKMnq1uaw61eo1_540.jpg">
+</a>
+
+<a href="http://mobirise.com">
+<img src="https://41.media.tumblr.com/0772d12e6c31db2e16f9203fd9537e60/tumblr_nr7zdrKMnq1uaw61eo1_540.jpg">
+</a>
+
+<a href="http://mobirise.com">
+<img src="https://41.media.tumblr.com/0772d12e6c31db2e16f9203fd9537e60/tumblr_nr7zdrKMnq1uaw61eo1_540.jpg">
+</a>
