@@ -22,7 +22,7 @@ Whether you want to create a blog, eCommerce store, portfolio, or all of the abo
 * "Preview" button to test your site in the browser
 
 <a href="http://mobirise.com">
-<img src="https://40.media.tumblr.com/335f9767cee1c974f3b0f417684144e6/tumblr_nr7zof09jF1uaw61eo1_540.jpg.jpg">
+<img src="https://40.media.tumblr.com/335f9767cee1c974f3b0f417684144e6/tumblr_nr7zof09jF1uaw61eo1_540.jpg">
 </a>
 
 <a href="http://mobirise.com">
@@ -53,3 +53,6 @@ Whether you want to create a blog, eCommerce store, portfolio, or all of the abo
 <img src="https://41.media.tumblr.com/d17404f9cdf0d84197be6365bb57ce29/tumblr_nrkmuxl8GM1uaw61eo1_540.jpg">
 </a>
 
+### Main changes in Mobirise v1.7:
+* New Footer, "Follow Us", "Testimonials" blocks
+* Now you can edit and reorder menu items inline
