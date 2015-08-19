@@ -93,7 +93,7 @@ Whether you want to create a blog, eCommerce store, portfolio, or all of the abo
 </a>
 
 <a href="http://mobirise.com">
-<img src="http://orig10.deviantart.net/9d43/f/2015/231/1/4/mobirise_1_8___extended_toolbar_for_text_editor_by_mobirise-d96b057.png">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dbec9d28831181.55d4834eb2b5e.png">
 </a>
 
 <a href="http://mobirise.com">
