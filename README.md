@@ -85,7 +85,7 @@ Whether you want to create a blog, eCommerce store, portfolio, or all of the abo
 * Some internal optimization and code cleanup
 
 <a href="http://mobirise.com">
-<img src="https://40.media.tumblr.com/335f9767cee1c974f3b0f417684144e6/tumblr_nr7zof09jF1uaw61eo1_540.jpg">
+<img src="http://orig15.deviantart.net/82b2/f/2015/231/c/2/mobirise_v1_8___new_google_maps_block_by_mobirise-d96b0gw.png">
 </a>
 
 <a href="http://mobirise.com">
