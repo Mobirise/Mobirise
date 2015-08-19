@@ -73,10 +73,16 @@ Whether you want to create a blog, eCommerce store, portfolio, or all of the abo
 <img src="https://m2.behance.net/rendition/pm/28262791/max_1200/728c2b76b22265b8c42f5f0b0a6249d7.jpg">
 </a>
 
-### Main changes in v1.6:
-* Link now can be set to the in-page anchors (with smooth scroll) and other project pages 
-* Video background for all blocks 
-* "Preview" button to test your site in the browser
+### Main changes in v1.8:
+
+* New "Publish" window
+* New Google Maps block
+* New footer block with Google Maps
+* Added extended toolbar for text editor (activated for some art
+* New floating "Block Parameters" panel
+* New "Article" blocks with many text, image and video elements
+* Fixed some W3C Validator errors
+* Some internal optimization and code cleanup
 
 <a href="http://mobirise.com">
 <img src="https://40.media.tumblr.com/335f9767cee1c974f3b0f417684144e6/tumblr_nr7zof09jF1uaw61eo1_540.jpg">
