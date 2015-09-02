@@ -107,3 +107,20 @@ Whether you want to create a blog, eCommerce store, portfolio, or all of the abo
 <a href="http://mobirise.com">
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/028d7d28831181.55d4834eb7ba3.png">
 </a>
+
+### Main changes in v1.9:
+* Added Slider block
+* Fixed Share buttons
+* Hide component params / editor toolbar / colorpicker on page change or on unfocus component
+* Changed project files --> project.mobirise (but old project.json supported also)
+* Some components bug fixes
+* Fixed devices navbar active color
+* Fixed for bold and italic texts - now <strong> and <em> tag names
+
+<a href="http://mobirise.com">
+<img src="https://36.media.tumblr.com/18e0e4bd2a7bbf405842a061d088a2f0/tumblr_nu1snfNX7f1uaw61eo1_540.png">
+</a>
+
+<a href="http://mobirise.com">
+<img src="https://40.media.tumblr.com/456cd10e37cec63dc1d74ed3ad210d9f/tumblr_nu1snfNX7f1uaw61eo2_540.png">
+</a>
