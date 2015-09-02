@@ -115,7 +115,6 @@ Whether you want to create a blog, eCommerce store, portfolio, or all of the abo
 * Changed project files --> project.mobirise (but old project.json supported also)
 * Some components bug fixes
 * Fixed devices navbar active color
-* Fixed for bold and italic texts - now <strong> and <em> tag names
 
 <a href="http://mobirise.com">
 <img src="https://36.media.tumblr.com/18e0e4bd2a7bbf405842a061d088a2f0/tumblr_nu1snfNX7f1uaw61eo1_540.png">
