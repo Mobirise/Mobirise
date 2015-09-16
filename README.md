@@ -123,3 +123,30 @@ Whether you want to create a blog, eCommerce store, portfolio, or all of the abo
 <a href="http://mobirise.com">
 <img src="https://40.media.tumblr.com/456cd10e37cec63dc1d74ed3ad210d9f/tumblr_nu1snfNX7f1uaw61eo2_540.png">
 </a>
+
+
+### Main changes in v1.9.7:
+
+* Image Gallery block - Masonry Image Gallery with Lightbox
+* Form blocks - Contact Us & Subscribe forms (NOTE: Current version doesn't have a handler to send submissions to your e-mail - will be added later.)
+* Fixed-width slider block 
+* Touch-swipe support for slider and gallery
+* Support for *.gif and *.svg 
+* Fix for https videos and https google fonts 
+* Bug fixes for image and project files saving
+
+<a href="http://mobirise.com">
+<img src="http://40.media.tumblr.com/5de9a813a5c61c7f9d1adcdab96cf2c5/tumblr_nurm49x2xA1uaw61eo1_1280.jpg">
+</a>
+
+<a href="http://mobirise.com">
+<img src="http://36.media.tumblr.com/537d911d7c85a0e95a961b5f017c1519/tumblr_nurhrlGUmF1uaw61eo1_1280.jpg">
+</a>
+
+<a href="http://mobirise.com">
+<img src="http://40.media.tumblr.com/d9a49f44794d61792b4c20173d96f4c7/tumblr_nurhdbRuEV1uaw61eo1_1280.jpg">
+</a>
+
+<a href="http://mobirise.com">
+<img src="http://41.media.tumblr.com/927f1b294a8d086004431590742f7f39/tumblr_nurh3rswid1uaw61eo1_1280.jpg">
+</a>
