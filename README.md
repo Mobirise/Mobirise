@@ -5,7 +5,13 @@
 
 [MobiRise Bootstrap Website Builder](http://mobirise.com/) creates responsive, retina and mobile friendly websites in a few clicks. Easy and fast.
 
-
+### What's new in v2.0: 
+* Form blocks with email notifications without any server-side integration. Just type your email in parameters and get submissions instantly.
+* Menu block redesigned. Now menu can have buttons, larger logo, be sticky, and collapsed.
+* Slider supports autoplay. 
+* Smooth scroll added.
+* Massive bug fixes. 
+* Mobirise.com site updated.
 
 ### Main changes in v1.6:
 * Link now can be set to the in-page anchors (with smooth scroll) and other project pages 
