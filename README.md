@@ -5,16 +5,7 @@
 
 [MobiRise Bootstrap Website Builder](http://mobirise.com/) creates responsive, retina and mobile friendly websites in a few clicks. Easy and fast.
 
-### Drag and drop website builder 
-Make your own mobile website in minutes! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.
-### Live preview 
-See the result instantly without a need to save or export!
-### Modern styles 
-Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.
-### Bootstrap 3 
-Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.
-### Create a beautiful website.
-Whether you want to create a blog, eCommerce store, portfolio, or all of the above, you can express your idea with a website powered by our elegant yet intuitive platform.
+
 
 ### Main changes in v1.6:
 * Link now can be set to the in-page anchors (with smooth scroll) and other project pages 
@@ -150,3 +141,14 @@ Whether you want to create a blog, eCommerce store, portfolio, or all of the abo
 <a href="http://mobirise.com">
 <img src="http://41.media.tumblr.com/927f1b294a8d086004431590742f7f39/tumblr_nurh3rswid1uaw61eo1_1280.jpg">
 </a>
+
+### Drag and drop website builder 
+Make your own mobile website in minutes! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.
+### Live preview 
+See the result instantly without a need to save or export!
+### Modern styles 
+Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.
+### Bootstrap 3 
+Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.
+### Create a beautiful website.
+Whether you want to create a blog, eCommerce store, portfolio, or all of the above, you can express your idea with a website powered by our elegant yet intuitive platform.
