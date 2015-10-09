@@ -11,14 +11,21 @@ Bootstrap website builder makes it very easy to prototype, test, and build a cus
 <img src="https://s-media-cache-ak0.pinimg.com/736x/3a/30/9c/3a309c83ce917d34272f5efc397f3e41.jpg">
 </a>
 
-### [Bootstrap website builders](http://mobirise.com/bootstrap-builder/)
-Bootstrap website builder makes it very easy to prototype, test, and build a custom responsive website quickly, without having to understand the Bootstrap framework system. They, although different in capabilities, all offer a form of drag-and-drop functionality that fully utilizes the enormous library of Bootstrap’s components.
+### [Bootstrap website builders](http://mobirise.com/bootstrap-gallery/)
+Adding a css image gallery to your website does not need to be difficult or time-consuming. There are a wide range of options to choose from, whether you opt to go with the standard html5 image gallery, to customize it using one of a wide-range of plugins and tutorials or if you opt for Mobirise’s drag-and-drop builder. Good luck with your website!
 <a href="http://mobirise.com/bootstrap-builder/">
-<img src="https://s-media-cache-ak0.pinimg.com/736x/3a/30/9c/3a309c83ce917d34272f5efc397f3e41.jpg">
+<img src="https://s-media-cache-ak0.pinimg.com/736x/2b/ef/2a/2bef2a00b070e19e9847f85d2a4aef54.jpg">
 </a>
 
-### [Bootstrap website builders](http://mobirise.com/bootstrap-builder/)
-Bootstrap website builder makes it very easy to prototype, test, and build a custom responsive website quickly, without having to understand the Bootstrap framework system. They, although different in capabilities, all offer a form of drag-and-drop functionality that fully utilizes the enormous library of Bootstrap’s components.
+### [Bootstrap website builders](http://mobirise.com/bootstrap-carousel/)
+The bootstrap image slider component that comes with the bootstrap framework is a lightweight carousel which uses JavaScript. It’s a standards-compliant piece of functionality, with a clean design that will fit easily into any website. It’s also easy to modify and extend with additional functionality such as CSS3 animations and more.
+<a href="http://mobirise.com/bootstrap-builder/">
+<img src="https://s-media-cache-ak0.pinimg.com/736x/f9/c9/61/f9c961e18d45d96beb6fa0a775eba762.jpg">
+</a>
+
+### [Bootstrap website builders](http://mobirise.com/website-builder-reviews/)
+Today you are able to use different techniques and tools, from using an open-source CMS such as WordPress along with a free theme, to using website building software.
+Mobirise is one such website builder. Website software has a few advantages over a CMS...
 <a href="http://mobirise.com/bootstrap-builder/">
 <img src="https://s-media-cache-ak0.pinimg.com/736x/3a/30/9c/3a309c83ce917d34272f5efc397f3e41.jpg">
 </a>
