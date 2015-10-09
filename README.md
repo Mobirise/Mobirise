@@ -7,7 +7,7 @@
 
 ### [Bootstrap website builders](http://mobirise.com/bootstrap-builder/)
 Bootstrap website builder makes it very easy to prototype, test, and build a custom responsive website quickly, without having to understand the Bootstrap framework system. They, although different in capabilities, all offer a form of drag-and-drop functionality that fully utilizes the enormous library of Bootstrap’s components.
-<a href="http://mobirise.com">
+<a href="http://mobirise.com/bootstrap-builder/">
 <img src="https://s-media-cache-ak0.pinimg.com/736x/3a/30/9c/3a309c83ce917d34272f5efc397f3e41.jpg">
 </a>
 
