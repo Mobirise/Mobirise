@@ -1,13 +1,12 @@
 # Mobirise
 ## [Mobile Bootstrap Website Builder](http://mobirise.com/)
 
-#### Create beautiful mobile-first websites!
+### Create beautiful mobile-first websites!
 
 [MobiRise Bootstrap Website Builder](http://mobirise.com/) creates responsive, retina and mobile friendly websites in a few clicks. Easy and fast.
 
-### <a href="http://mobirise.com/bootstrap-builder/">
-Bootstrap website builders
-</a>
+### [Bootstrap website builders](http://mobirise.com/bootstrap-builder/)
+
 <a href="http://mobirise.com">
 <img src="https://s-media-cache-ak0.pinimg.com/736x/3a/30/9c/3a309c83ce917d34272f5efc397f3e41.jpg">
 </a>
