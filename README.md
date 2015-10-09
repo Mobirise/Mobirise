@@ -6,12 +6,10 @@
 [MobiRise Bootstrap Website Builder](http://mobirise.com/) creates responsive, retina and mobile friendly websites in a few clicks. Easy and fast.
 
 ### [Bootstrap website builders](http://mobirise.com/bootstrap-builder/)
-
+Bootstrap website builder makes it very easy to prototype, test, and build a custom responsive website quickly, without having to understand the Bootstrap framework system. They, although different in capabilities, all offer a form of drag-and-drop functionality that fully utilizes the enormous library of Bootstrap’s components.
 <a href="http://mobirise.com">
 <img src="https://s-media-cache-ak0.pinimg.com/736x/3a/30/9c/3a309c83ce917d34272f5efc397f3e41.jpg">
 </a>
-
-Bootstrap website builder makes it very easy to prototype, test, and build a custom responsive website quickly, without having to understand the Bootstrap framework system. They, although different in capabilities, all offer a form of drag-and-drop functionality that fully utilizes the enormous library of Bootstrap’s components.
 
 <a href="http://mobirise.com">
 <img src="http://36.media.tumblr.com/d0349500180262c8e39993e7101efbca/tumblr_nvjiht9SAz1uaw61eo1_1280.jpg">
