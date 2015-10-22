@@ -12,14 +12,12 @@
 <img src="https://41.media.tumblr.com/83836df4b17fa2423899ca918c4cc2fd/tumblr_nwmfsqo5LZ1uaw61eo1_1280.jpg">
 </a>
 
-### [Bootstrap builders](http://mobirise.com/responsive-menu/)
-Bootstrap website builder makes it very easy to prototype, test, and build a custom responsive website quickly, without having to understand the Bootstrap framework system. They, although different in capabilities, all offer a form of drag-and-drop functionality that fully utilizes the enormous library of Bootstrap’s components.
+### [Responsive menu](http://mobirise.com/responsive-menu/)
 <a href="http://mobirise.com/responsive-menu/">
 <img src="https://40.media.tumblr.com/eac59cd0ced8e7702f7ccfd0281fd5aa/tumblr_nwmfrkUQE81uaw61eo1_1280.jpg">
 </a>
 
-### [Bootstrap image gallery](http://mobirise.com/mobile-friendly-website/)
-Adding a css image gallery to your website does not need to be difficult or time-consuming. There are a wide range of options to choose from, whether you opt to go with the standard html5 image gallery, to customize it using one of a wide-range of plugins and tutorials or if you opt for Mobirise’s drag-and-drop builder. Good luck with your website!
+### [Mobile friendly website](http://mobirise.com/mobile-friendly-website/)
 <a href="http://mobirise.com/mobile-friendly-website/">
 <img src="https://40.media.tumblr.com/b5048af08da0f5b1fdde804122149655/tumblr_nwmfqjUGhM1uaw61eo1_1280.jpg">
 </a>
