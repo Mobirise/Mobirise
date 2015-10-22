@@ -9,7 +9,7 @@
 * Brand new 'Sites' panel
 
 <a href="http://mobirise.com">
-<img src="https://41.media.tumblr.com/83836df4b17fa2423899ca918c4cc2fd/tumblr_nwmfsqo5LZ1uaw61eo1_540.jpg">
+<img src="https://41.media.tumblr.com/83836df4b17fa2423899ca918c4cc2fd/tumblr_nwmfsqo5LZ1uaw61eo1_1280.jpg">
 </a>
 
 ### [Bootstrap builders](http://mobirise.com/bootstrap-builder/)
