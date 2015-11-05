@@ -5,6 +5,21 @@
 
 [MobiRise Bootstrap Website Builder](http://mobirise.com/) creates responsive, retina and mobile friendly websites in a few clicks. Easy and fast.
 
+### What's new in Mobirise Landing Page Creator v2.4: 
+* Mobirise now supports extensions - external blocks, themes, addons
+* Added a new extension: Google Analytics - it inserts your Analytics or any other tracking codes to every site page
+* Improved site save function (now saves continuously)
+* Updated "Pages" panel 
+* Bug fixes 
+
+<a href="http://mobirise.com">
+<img src="https://40.media.tumblr.com/c874fe572ac2779f8848a8d6ddaa5ce9/tumblr_nxc3siCYQ41uaw61eo1_1280.jpg">
+</a>
+
+<a href="http://mobirise.com">
+<img src="https://36.media.tumblr.com/f9f9547b4826f4a721233a3d72e76f15/tumblr_nxc3pblPMu1uaw61eo1_1280.jpg">
+</a>
+
 ### What's new in Mobirise Bootstrap Theme Generator  v2.3: 
 * Brand new 'Sites' panel
 
