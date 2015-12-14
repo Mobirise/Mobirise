@@ -1,9 +1,9 @@
 # Mobirise
-## [Mobile Bootstrap Website Builder](http://mobirise.com/)
+## [Mobile Bootstrap Website Builder](https://mobirise.com/)
 
 ### Create beautiful mobile-first websites!
 
-[MobiRise Bootstrap Website Builder](http://mobirise.com/) creates responsive, retina and mobile friendly websites in a few clicks. Easy and fast.
+[MobiRise Bootstrap Website Builder](https://mobirise.com/) creates responsive, retina and mobile friendly websites in a few clicks. Easy and fast.
 
 ### What's new in Mobirise Landing Page Creator v2.4: 
 * Mobirise now supports extensions - external blocks, themes, addons
@@ -12,7 +12,7 @@
 * Updated "Pages" panel 
 * Bug fixes 
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="https://40.media.tumblr.com/c874fe572ac2779f8848a8d6ddaa5ce9/tumblr_nxc3siCYQ41uaw61eo1_1280.jpg">
 </a>
 
@@ -23,7 +23,7 @@
 ### What's new in Mobirise Bootstrap Theme Generator  v2.3: 
 * Brand new 'Sites' panel
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="https://41.media.tumblr.com/83836df4b17fa2423899ca918c4cc2fd/tumblr_nwmfsqo5LZ1uaw61eo1_1280.jpg">
 </a>
 
@@ -35,15 +35,15 @@
 * Massive bug fixes. 
 * Mobirise.com site updated.
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="http://41.media.tumblr.com/98b7546b03430a9fe118b986bdbcd752/tumblr_nvjipqOVCJ1uaw61eo1_1280.jpg">
 </a>
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="http://36.media.tumblr.com/d0349500180262c8e39993e7101efbca/tumblr_nvjiht9SAz1uaw61eo1_1280.jpg">
 </a>
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="http://41.media.tumblr.com/571ecb209d64b0a3f7ea4b11345520cd/tumblr_nvjhww36OS1uaw61eo1_1280.jpg">
 </a>
 
@@ -52,35 +52,35 @@
 * Video background for all blocks 
 * "Preview" button to test your site in the browser
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="https://40.media.tumblr.com/335f9767cee1c974f3b0f417684144e6/tumblr_nr7zof09jF1uaw61eo1_540.jpg">
 </a>
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="https://41.media.tumblr.com/089c102da397b8644b4ec384dd172440/tumblr_nr7zmkbQUh1uaw61eo1_540.jpg">
 </a>
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="https://41.media.tumblr.com/6105df5ef089606892670c9e7ee95d39/tumblr_nr7zkel6jg1uaw61eo1_540.jpg">
 </a>
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="https://41.media.tumblr.com/fbebb626e122d65cdd5068989d3dbc17/tumblr_nr7zix2ioX1uaw61eo1_540.jpg">
 </a>
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="https://40.media.tumblr.com/704f76a8a63ee14bb28d5724fb0af655/tumblr_nr7zherECD1uaw61eo1_540.jpg">
 </a>
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="https://41.media.tumblr.com/0772d12e6c31db2e16f9203fd9537e60/tumblr_nr7zdrKMnq1uaw61eo1_540.jpg">
 </a>
 
-<a href="http://mobirise.com/video-background/">
+<a href="https://mobirise.com/video-background/">
 <img src="https://40.media.tumblr.com/d4e57dfd4751bdc7779d03d00da2a05b/tumblr_nrknrkjU3m1uaw61eo1_540.jpg">
 </a>
 
-<a href="http://mobirise.com/parallax-scrolling/">
+<a href="https://mobirise.com/parallax-scrolling/">
 <img src="https://41.media.tumblr.com/d17404f9cdf0d84197be6365bb57ce29/tumblr_nrkmuxl8GM1uaw61eo1_540.jpg">
 </a>
 
@@ -88,19 +88,19 @@
 * New Footer, "Follow Us", "Testimonials" blocks
 * Now you can edit and reorder menu items inline 
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="https://m2.behance.net/rendition/pm/28262791/max_1200/2dce1ecf7314e2a4de389bdc20fcc26c.jpg">
 </a>
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="https://m2.behance.net/rendition/pm/28262791/max_1200/55e0885faf542fdc5fd46e7a0232bd6a.jpg">
 </a>
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="https://m2.behance.net/rendition/pm/28262791/max_1200/77a756a8f732e1ee6307c962bcfd461e.jpg">
 </a>
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="https://m2.behance.net/rendition/pm/28262791/max_1200/728c2b76b22265b8c42f5f0b0a6249d7.jpg">
 </a>
 
@@ -115,27 +115,27 @@
 * Fixed some W3C Validator errors
 * Some internal optimization and code cleanup
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="http://orig15.deviantart.net/82b2/f/2015/231/c/2/mobirise_v1_8___new_google_maps_block_by_mobirise-d96b0gw.png">
 </a>
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="http://img01.deviantart.net/e724/i/2015/231/8/1/mobirise_v1_8___new_footer_block_with_google_maps_by_mobirise-d96b0bn.png">
 </a>
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dbec9d28831181.55d4834eb2b5e.png">
 </a>
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="http://img03.deviantart.net/45a5/i/2015/231/c/5/mobirise_v1_8___new_block_parameters_panel_by_mobirise-d96azos.png">
 </a>
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bd8d4328831181.55d4834eb6b49.png">
 </a>
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/028d7d28831181.55d4834eb7ba3.png">
 </a>
 
@@ -166,54 +166,54 @@
 * Fix for https videos and https google fonts 
 * Bug fixes for image and project files saving
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="http://40.media.tumblr.com/5de9a813a5c61c7f9d1adcdab96cf2c5/tumblr_nurm49x2xA1uaw61eo1_1280.jpg">
 </a>
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="http://36.media.tumblr.com/537d911d7c85a0e95a961b5f017c1519/tumblr_nurhrlGUmF1uaw61eo1_1280.jpg">
 </a>
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="http://40.media.tumblr.com/d9a49f44794d61792b4c20173d96f4c7/tumblr_nurhdbRuEV1uaw61eo1_1280.jpg">
 </a>
 
-<a href="http://mobirise.com">
+<a href="https://mobirise.com">
 <img src="http://41.media.tumblr.com/927f1b294a8d086004431590742f7f39/tumblr_nurh3rswid1uaw61eo1_1280.jpg">
 </a>
 
-### [Responsive menu](http://mobirise.com/responsive-menu/)
-<a href="http://mobirise.com/responsive-menu/">
+### [Responsive menu](https://mobirise.com/responsive-menu/)
+<a href="https://mobirise.com/responsive-menu/">
 <img src="https://40.media.tumblr.com/eac59cd0ced8e7702f7ccfd0281fd5aa/tumblr_nwmfrkUQE81uaw61eo1_1280.jpg">
 </a>
 
-### [Mobile friendly website](http://mobirise.com/mobile-friendly-website/)
-<a href="http://mobirise.com/mobile-friendly-website/">
+### [Mobile friendly website](https://mobirise.com/mobile-friendly-website/)
+<a href="https://mobirise.com/mobile-friendly-website/">
 <img src="https://40.media.tumblr.com/b5048af08da0f5b1fdde804122149655/tumblr_nwmfqjUGhM1uaw61eo1_1280.jpg">
 </a>
 
-### [Bootstrap builders](http://mobirise.com/bootstrap-builder/)
+### [Bootstrap builders](https://mobirise.com/bootstrap-builder/)
 Bootstrap website builder makes it very easy to prototype, test, and build a custom responsive website quickly, without having to understand the Bootstrap framework system. They, although different in capabilities, all offer a form of drag-and-drop functionality that fully utilizes the enormous library of Bootstrap’s components.
-<a href="http://mobirise.com/bootstrap-builder/">
+<a href="https://mobirise.com/bootstrap-builder/">
 <img src="https://s-media-cache-ak0.pinimg.com/736x/3a/30/9c/3a309c83ce917d34272f5efc397f3e41.jpg">
 </a>
 
-### [Bootstrap image gallery](http://mobirise.com/bootstrap-gallery/)
+### [Bootstrap image gallery](https://mobirise.com/bootstrap-gallery/)
 Adding a css image gallery to your website does not need to be difficult or time-consuming. There are a wide range of options to choose from, whether you opt to go with the standard html5 image gallery, to customize it using one of a wide-range of plugins and tutorials or if you opt for Mobirise’s drag-and-drop builder. Good luck with your website!
-<a href="http://mobirise.com/bootstrap-gallery/">
+<a href="https://mobirise.com/bootstrap-gallery/">
 <img src="https://s-media-cache-ak0.pinimg.com/736x/2b/ef/2a/2bef2a00b070e19e9847f85d2a4aef54.jpg">
 </a>
 
-### [Bootstrap carousel](http://mobirise.com/bootstrap-carousel/)
+### [Bootstrap carousel](https://mobirise.com/bootstrap-carousel/)
 The bootstrap image slider component that comes with the bootstrap framework is a lightweight carousel which uses JavaScript. It’s a standards-compliant piece of functionality, with a clean design that will fit easily into any website. It’s also easy to modify and extend with additional functionality such as CSS3 animations and more.
-<a href="http://mobirise.com/bootstrap-carousel/">
+<a href="https://mobirise.com/bootstrap-carousel/">
 <img src="https://s-media-cache-ak0.pinimg.com/736x/f9/c9/61/f9c961e18d45d96beb6fa0a775eba762.jpg">
 </a>
 
-### [Website builders reviews](http://mobirise.com/website-builder-reviews/)
+### [Website builders reviews](https://mobirise.com/website-builder-reviews/)
 Today you are able to use different techniques and tools, from using an open-source CMS such as WordPress along with a free theme, to using website building software.
 Mobirise is one such website builder. Website software has a few advantages over a CMS...
-<a href="http://mobirise.com/website-builder-reviews/">
+<a href="https://mobirise.com/website-builder-reviews/">
 <img src="https://s-media-cache-ak0.pinimg.com/736x/3a/30/9c/3a309c83ce917d34272f5efc397f3e41.jpg">
 </a>
 
