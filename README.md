@@ -5,6 +5,12 @@
 
 [MobiRise Bootstrap Website Builder](https://mobirise.com/) creates responsive, retina and mobile friendly websites in a few clicks. Easy and fast.
 
+### Mobirise Review 
+
+<a href="http://www.cmscritic.com/mobirise-review/">
+<img src="https://40.media.tumblr.com/21cbfcb92fd350a5b95235b3f74e37ca/tumblr_nzftylVPyS1uaw61eo1_1280.jpg">
+</a>
+
 ### Make your own bootstrap-based site in minutes! 
 
 <a href="https://mobirise.com/bootstrap-template/">
