@@ -7,7 +7,7 @@
 
 ### Bootstrap 4 Template
 
-<a href="http://www.cmscritic.com/mobirise-review/">
+<a href="https://mobirise.com/bootstrap-4-theme/">
 <img src="https://41.media.tumblr.com/49fd92c8bed0bcae51857e4318d49727/tumblr_o18tdmUH381uaw61eo1_1280.jpg">
 </a>
 
