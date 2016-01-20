@@ -17,7 +17,27 @@
 <img src="https://41.media.tumblr.com/e8eb0be0bfb1a13c0c685bf590ef6a31/tumblr_nzclzvZtQs1uaw61eo1_1280.jpg">
 </a>
 
-### What's new in Responsive Website Builder v2.6: 
+### What's new in Mobirise HTML Page Creator v2.8.4: 
+* New "PurityM" Bootstrap 4-based Mobirise theme
+* Added "Facebook Comments" extension
+* Added "Icons" extension
+* Updated "Code Editor" extension
+* Redesign of some components
+* Bugs fixed
+
+<a href="https://mobirise.com">
+<img src="https://40.media.tumblr.com/2066a71e0684266d784fe3c42215484d/tumblr_o17c8gQHwl1uaw61eo1_1280.jpg">
+</a>
+
+<a href="https://mobirise.com">
+<img src="https://41.media.tumblr.com/e1ea3e4a97423137edcfcce3031100b7/tumblr_o17c6oOEkU1uaw61eo1_1280.jpg">
+</a>
+
+<a href="https://mobirise.com">
+<img src="https://41.media.tumblr.com/38c042a1e061ae81c45ae0480eaa6ba9/tumblr_o17c4mD65Q1uaw61eo1_1280.jpg">
+</a>
+
+### What's new in Mobirise Responsive Website Builder v2.6: 
 * Account panel
 * Media editor
 * Soundcloud extension
