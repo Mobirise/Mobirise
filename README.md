@@ -23,6 +23,14 @@
 <img src="https://41.media.tumblr.com/e8eb0be0bfb1a13c0c685bf590ef6a31/tumblr_nzclzvZtQs1uaw61eo1_1280.jpg">
 </a>
 
+### What's new in Mobirise HTML Page Creator v2.8.5: 
+* Extended form editor
+* Bugs fixes
+
+<a href="https://mobirise.com">
+<img src="https://41.media.tumblr.com/6b1149b9ccdd2525f17cacfa539c5cc2/tumblr_o1vc38LpY61uaw61eo1_1280.jpg">
+</a>
+
 ### What's new in Mobirise HTML Page Creator v2.8.4: 
 * New "PurityM" Bootstrap 4-based Mobirise theme
 * Added "Facebook Comments" extension
