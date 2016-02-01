@@ -23,7 +23,7 @@
 <img src="https://41.media.tumblr.com/e8eb0be0bfb1a13c0c685bf590ef6a31/tumblr_nzclzvZtQs1uaw61eo1_1280.jpg">
 </a>
 
-### What's new in Mobirise HTML Page Creator v2.8.5: 
+### What's new in Mobirise Web Site Builder v2.8.5: 
 * Extended form editor
 * Bugs fixes
 
