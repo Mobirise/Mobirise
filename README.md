@@ -30,7 +30,11 @@
 * Minor fixes in "PurityM" theme
 
 <a href="https://mobirise.com">
-<img src="https://41.media.tumblr.com/6b1149b9ccdd2525f17cacfa539c5cc2/tumblr_o1vc38LpY61uaw61eo1_1280.jpg">
+<img src="https://36.media.tumblr.com/a61c5ba5a06db7c1348b1aa0e5904446/tumblr_o42xp7ifks1uaw61eo1_1280.jpg">
+</a>
+
+<a href="https://mobirise.com">
+<img src="https://40.media.tumblr.com/8d2de5eb6c8a81e8f858eea08839b3ba/tumblr_o42xnpZdd21uaw61eo1_1280.jpg">
 </a>
 
 ### What's new in Mobirise Web Site Builder v2.8.5: 
