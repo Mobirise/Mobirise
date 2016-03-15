@@ -23,6 +23,21 @@
 <img src="https://41.media.tumblr.com/e8eb0be0bfb1a13c0c685bf590ef6a31/tumblr_nzclzvZtQs1uaw61eo1_1280.jpg">
 </a>
 
+### What's new in Mobirise Web Site Builder v2.9.7: 
+*Menu:
+Now you can change hamburger button color in parameters
+*Slider:
+Added 'Show Bullets' parameter
+Added slide overlay
+Added content alignment
+
+Fixed Code Editor PHP code insertion
+Minor fixes in "PurityM" theme
+
+<a href="https://mobirise.com">
+<img src="https://41.media.tumblr.com/6b1149b9ccdd2525f17cacfa539c5cc2/tumblr_o1vc38LpY61uaw61eo1_1280.jpg">
+</a>
+
 ### What's new in Mobirise Web Site Builder v2.8.5: 
 * Extended form editor
 * Bugs fixes
