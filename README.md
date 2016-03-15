@@ -24,10 +24,10 @@
 </a>
 
 ### What's new in Mobirise Web Site Builder v2.9.7: 
-*Menu: now you can change hamburger button color in parameters
-*Slider: Added 'Show Bullets' parameter, slide overlay, content alignment
-*Fixed Code Editor PHP code insertion
-*Minor fixes in "PurityM" theme
+* Menu: now you can change hamburger button color in parameters
+* Slider: Added 'Show Bullets' parameter, slide overlay, content alignment
+* Fixed Code Editor PHP code insertion
+* Minor fixes in "PurityM" theme
 
 <a href="https://mobirise.com">
 <img src="https://41.media.tumblr.com/6b1149b9ccdd2525f17cacfa539c5cc2/tumblr_o1vc38LpY61uaw61eo1_1280.jpg">
