@@ -10,13 +10,9 @@
 <img src="https://mobirise.com/assets/images/v210_1.jpg">
 </a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wivr0Ds2fqE" frameborder="0" allowfullscreen></iframe>
-
 <a href="https://mobirise.com">
 <img src="https://mobirise.com/assets/images/v210_2.jpg">
 </a>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lNzDvZhvETg" frameborder="0" allowfullscreen></iframe>
 
 ### What's new in Mobirise Web Site Builder v2.9.10: 
 * Now you can contact us directly from the app, see "Menu->Help me!"
