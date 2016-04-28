@@ -1,6 +1,19 @@
 # Mobirise
 ## [Mobile Bootstrap Website Builder](https://mobirise.com/)
 
+### What's new in Mobirise Web Site Builder v2.11: 
+* New "Dropdown Menu" extension
+* New "PayPal Shopping Cart" extension
+* Bug fixes
+
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/extensions/assets-ddm/images/ddmenu-692x431-64.jpg">
+</a>
+
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/extensions/assets-psc/images/sc4-615x417-24.jpg">
+</a>
+
 ### What's new in Mobirise Web Site Builder v2.10: 
 * Adjust the top and bottom paddings of blocks
 * Now you can add captions to your gallery images
