@@ -1,16 +1,60 @@
 # Mobirise
 ## [Mobile Bootstrap Website Builder](https://mobirise.com/)
 
+### New features available in Mobirise v3.06
+* Added "Site Style Changer". Now you can edit fonts, colors and other options of the whole site in one click. (Mobirise 3 theme only)
+* Added "Resize Images" option - if turned OFF, the images will be added "as is" to page. If ON, images will be optimized for web.
+* Added 8 new blocks to the 'Block Pack' extension, now 61 blocks total:
+  * Timelines with adjustable number of elements
+  * "Our Clients" logo carousel
+  * "1,2,3 Steps" blocks
+  * "Coming soon" intro with countdown, logo and animated subscribe form
+  * Intro with countdown and subscribe form
+  * Full-screen intro with subscribe form and image section on the left side
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/v306_9.jpg">
+</a>
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/v306_10.jpg">
+</a>
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/v306_1.jpg">
+</a>
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/v306_2.jpg">
+</a>
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/v306_3.jpg>
+</a>
+
+### What's new in Mobirise v3.05.3
+* Added 10 new blocks to the 'Block Pack' extension:
+* Full-screen Kenburns & parallax slider
+* Boxed-layout slider with Kenburns & parallax
+* Full-screen intro with "typed" text effect
+* Full-screen intro with animated text background
+* Media block with animated text background
+* Testimonials sliders with adjustable number of visible slides
 
 ###  What's new in Mobirise v3.05
 * Added <a href="https://mobirise.com/extensions/blockpack/">30+ new blocks</a> for Mobirise 3 theme
 * Added tags filter to gallery blocks
 * Added new 2100 perfect icons to <a href="https://mobirise.com/extensions/icons.html">'Icons'</a> extension
-<a href="https://mobirise.com"><img src="https://mobirise.com/assets3/images/v305_1.jpg"></a>
-<a href="https://mobirise.com"><img src="https://mobirise.com/assets3/images/v305_4.jpg"></a>
-<a href="https://mobirise.com"><https://mobirise.com/assets3/images/v305_2.jpg"></a>
-<a href="https://mobirise.com"><img src="https://mobirise.com/assets3/images/v305_3.jpg"></a>
-<a href="https://mobirise.com"><img src="https://mobirise.com/assets3/images/fullWidthIntro.jpg"></a>
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/v305_1.jpg">
+</a>
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/v305_4.jpg">
+</a>
+<a href="https://mobirise.com">
+<https://mobirise.com/assets3/images/v305_2.jpg">
+</a>
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/v305_3.jpg">
+</a>
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/fullWidthIntro.jpg">
+</a>
 
 ###  What's new in Mobirise v3.04
 * <a href="https://mobirise.com/extensions/wowslider/">"WOW Slider" extension</a> - The famous image slider with 100+ transitions and skins, is now available as a Mobirise extension. See also <a href="http://wowslider.com/">http://wowslider.com/</a>
@@ -31,15 +75,33 @@
 * Fixed Google Maps
 * Improved inline editor - works faster
 * Massive bug fixes
-<a href="https://mobirise.com"><img src="https://mobirise.com/assets3/images/fullWidthIntro.jpg"></a>
-<a href="https://mobirise.com"><img src="https://mobirise.com/assets3/images/stripedBlock.jpg"></a>
-<a href="https://mobirise.com"><img src="https://mobirise.com/assets3/images/newIconsBlock.jpg"></a>
-<a href="https://mobirise.com"><img src="https://mobirise.com/assets3/images/newArticleBlocks.jpg"></a>
-<a href="https://mobirise.com"><img src="https://mobirise.com/assets3/images/imagesInTestimonalsBlock.jpg"></a>
-<a href="https://mobirise.com"><img src="https://mobirise.com/assets3/images/newGallery.jpg"></a>
-<a href="https://mobirise.com"><img src="https://mobirise.com/assets3/images/newDropDownMenu.jpg"></a>
-<a href="https://mobirise.com"><img src="https://mobirise.com/assets3/images/swipeMenu.jpg"></a>
-<a href="https://mobirise.com"><img src="https://mobirise.com/assets3/images/iconBlock.jpg"></a>
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/fullWidthIntro.jpg">
+</a>
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/stripedBlock.jpg">
+</a>
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/newIconsBlock.jpg">
+</a>
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/newArticleBlocks.jpg">
+</a>
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/imagesInTestimonalsBlock.jpg">
+</a>
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/newGallery.jpg">
+</a>
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/newDropDownMenu.jpg">
+</a>
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/swipeMenu.jpg">
+</a>
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/iconBlock.jpg">
+</a>
 
 ### What's new in Mobirise v2.14
 * 'Icons' extension updated:
@@ -51,9 +113,15 @@
 * Other bug fixes
 <img src="https://mobirise.com/assets/images/v214.jpg">
 * Updated <a href="https://mobirise.com/extensions/shopping-cart.html">"PayPal Shopping Cart"</a> extension - To update see "Menu" -> "Extensions & Themes"
-<a href="https://mobirise.com"><img src="https://mobirise.com/assets/images/cart_style.jpg"></a>
-<a href="https://mobirise.com"><img src="https://mobirise.com/assets/images/paypal-buttons.jpg"></a>
-<a href="https://mobirise.com"><img src="https://mobirise.com/assets/images/currency.jpg"></a>
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets/images/cart_style.jpg">
+</a>
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets/images/paypal-buttons.jpg">
+</a>
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets/images/currency.jpg">
+</a>
 
 
 ### What's new in Mobirise Web Site Builder v2.11: 
