@@ -1,6 +1,13 @@
 # Mobirise
 ## [Mobile Bootstrap Website Builder](https://mobirise.com/)
 
+### What's new in Mobirise v3.06.1
+* New 'Social Feed' extension - live feed with latest posts from multiple social accounts
+* New 'Social Comments' extension - increase visitor engagement with Facebook, Google+ and Disqus comments
+* 'Icons' extension is updated with fresh 2100 icons - now 5600 icons in total
+* Improved on scroll animation. You can turn off animation in 'Style Changer' panel
+* Fixed bug when Code editor breaks the forms
+ 
 ### New features available in Mobirise v3.06
 * Added "Site Style Changer". Now you can edit fonts, colors and other options of the whole site in one click. (Mobirise 3 theme only)
 * Added "Resize Images" option - if turned OFF, the images will be added "as is" to page. If ON, images will be optimized for web.
