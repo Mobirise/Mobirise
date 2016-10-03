@@ -1,6 +1,14 @@
 # Mobirise
 ## [Mobile Bootstrap Website Builder](https://mobirise.com/)
 
+### What's new in Mobirise v3.06.4
+* New SpaceM theme
+* Updated Icons extension - 1000 new icons added (6600+ icons total)
+* Several new blocks in BlockPack extension 
+* "Scroll-to-top" button option in StyleChanger
+* Now you can re-order the page list with drag-n-drop
+* Bug fixes
+
 ### What's new in Mobirise v3.06.1
 * New 'Social Feed' extension - live feed with latest posts from multiple social accounts
 * New 'Social Comments' extension - increase visitor engagement with Facebook, Google+ and Disqus comments
