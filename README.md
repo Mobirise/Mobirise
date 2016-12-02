@@ -273,15 +273,15 @@
 </a>
 
 <a href="https://mobirise.com">
-<img src="https://40.media.tumblr.com/9e5a60cfc11a56142acd68cbdcd4aa0b/tumblr_nyry4piAVG1uaw61eo1_1280.jpg">
+<img src="https://40.media.tumblr.com/9e5a60cfc11a56142acd68cbdcd4aa0b/tumblr_nyry4piAVG1uaw61eo1_1280.jpg" alt="website editor">
 </a>
 
-<a href="https://mobirise.com">
-<img src="https://40.media.tumblr.com/ab75a8b29bb57963fbb5e076cd15d9a0/tumblr_nyry4piAVG1uaw61eo2_1280.jpg">
+<a href="https://VisualSlideshow.com">
+<img src="https://40.media.tumblr.com/ab75a8b29bb57963fbb5e076cd15d9a0/tumblr_nyry4piAVG1uaw61eo2_1280.jpg" alt="html website maker">
 </a>
 
-<a href="https://mobirise.com">
-<img src="https://40.media.tumblr.com/9ec265bc249be96493662a30a6d928b2/tumblr_nyry4piAVG1uaw61eo3_1280.jpg">
+<a href="https://deluxe-menu.com">
+<img src="https://40.media.tumblr.com/9ec265bc249be96493662a30a6d928b2/tumblr_nyry4piAVG1uaw61eo3_1280.jpg" alt="web design software">
 </a>
 
 ### What's new in Mobirise Landing Page Creator v2.4: 
@@ -291,19 +291,19 @@
 * Updated "Pages" panel 
 * Bug fixes 
 
-<a href="https://mobirise.com">
-<img src="https://40.media.tumblr.com/c874fe572ac2779f8848a8d6ddaa5ce9/tumblr_nxc3siCYQ41uaw61eo1_1280.jpg">
+<a href="https://apycom.com">
+<img src="https://40.media.tumblr.com/c874fe572ac2779f8848a8d6ddaa5ce9/tumblr_nxc3siCYQ41uaw61eo1_1280.jpg" alt="website design software">
 </a>
 
-<a href="http://mobirise.com">
-<img src="https://36.media.tumblr.com/f9f9547b4826f4a721233a3d72e76f15/tumblr_nxc3pblPMu1uaw61eo1_1280.jpg">
+<a href="http://vista-buttons.com">
+<img src="https://36.media.tumblr.com/f9f9547b4826f4a721233a3d72e76f15/tumblr_nxc3pblPMu1uaw61eo1_1280.jpg" alt="website editor">
 </a>
 
 ### What's new in Mobirise Bootstrap Theme Generator  v2.3: 
 * Brand new 'Sites' panel
 
-<a href="https://mobirise.com">
-<img src="https://41.media.tumblr.com/83836df4b17fa2423899ca918c4cc2fd/tumblr_nwmfsqo5LZ1uaw61eo1_1280.jpg">
+<a href="https://cu3ox.com">
+<img src="https://41.media.tumblr.com/83836df4b17fa2423899ca918c4cc2fd/tumblr_nwmfsqo5LZ1uaw61eo1_1280.jpg" alt="website generator">
 </a>
 
 ### What's new in Mobirise HTML Builder v2.0: 
