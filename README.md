@@ -276,11 +276,11 @@
 <img src="https://40.media.tumblr.com/9e5a60cfc11a56142acd68cbdcd4aa0b/tumblr_nyry4piAVG1uaw61eo1_1280.jpg" alt="website editor">
 </a>
 
-<a href="https://VisualSlideshow.com">
+<a href="http://VisualSlideshow.com">
 <img src="https://40.media.tumblr.com/ab75a8b29bb57963fbb5e076cd15d9a0/tumblr_nyry4piAVG1uaw61eo2_1280.jpg" alt="html website maker">
 </a>
 
-<a href="https://deluxe-menu.com">
+<a href="http://deluxe-menu.com">
 <img src="https://40.media.tumblr.com/9ec265bc249be96493662a30a6d928b2/tumblr_nyry4piAVG1uaw61eo3_1280.jpg" alt="web design software">
 </a>
 
@@ -291,7 +291,7 @@
 * Updated "Pages" panel 
 * Bug fixes 
 
-<a href="https://apycom.com">
+<a href="http://apycom.com">
 <img src="https://40.media.tumblr.com/c874fe572ac2779f8848a8d6ddaa5ce9/tumblr_nxc3siCYQ41uaw61eo1_1280.jpg" alt="website design software">
 </a>
 
@@ -302,7 +302,7 @@
 ### What's new in Mobirise Bootstrap Theme Generator  v2.3: 
 * Brand new 'Sites' panel
 
-<a href="https://cu3ox.com">
+<a href="http://cu3ox.com">
 <img src="https://41.media.tumblr.com/83836df4b17fa2423899ca918c4cc2fd/tumblr_nwmfsqo5LZ1uaw61eo1_1280.jpg" alt="website generator">
 </a>
 
