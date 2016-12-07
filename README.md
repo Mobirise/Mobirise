@@ -7,6 +7,9 @@
 * Free images library - select beautiful, hi-res images from the free, Creative Commons collection.
 * Fully updated FTP client: SFTP, FTPS, FTP supported, bug fixes
 * Mobirise Icons - 124 pixel-perfect icons in 24px and 30px format
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/directm-preview.jpg">
+</a>
 
 ### Mobirise v3.09
 * Publish to GitHub Pages
@@ -16,13 +19,13 @@
 ### Mobirise v3.08.5
 * Added 'Mobirise Icons' font. You can use it in all themes
 * New blocks in "ColorM" theme:
-* Full-width headers
-* Intro with video pop up
-* Full-screen intro with "typed" text effect
-* Blocks with 'contact us' and 'subscribe' forms
-* Round progress bars
-* Tabs, accordionds and toggle blocks
-* Different footers
+  * Full-width headers
+  * Intro with video pop up
+  * Full-screen intro with "typed" text effect
+  * Blocks with 'contact us' and 'subscribe' forms
+  * Round progress bars
+  * Tabs, accordionds and toggle blocks
+  * Different footers
 * Bug fixes in mobirise3 and other themes.
 
 ### Mobirise v3.08.4
@@ -76,6 +79,7 @@
   * "Coming soon" intro with countdown, logo and animated subscribe form
   * Intro with countdown and subscribe form
   * Full-screen intro with subscribe form and image section on the left side
+  
 <a href="https://mobirise.com">
 <img src="https://mobirise.com/assets3/images/v306_9.jpg">
 </a>
@@ -89,22 +93,23 @@
 <img src="https://mobirise.com/assets3/images/v306_2.jpg">
 </a>
 <a href="https://mobirise.com">
-<img src="https://mobirise.com/assets3/images/v306_3.jpg>
+<img src="https://mobirise.com/assets3/images/v306_3.jpg">
 </a>
 
 ### What's new in Mobirise v3.05.3
 * Added 10 new blocks to the 'Block Pack' extension:
 * Full-screen Kenburns & parallax slider
 * Boxed-layout slider with Kenburns & parallax
-* Full-screen intro with "typed" text effect
+* Full-screen intro with typed text effect
 * Full-screen intro with animated text background
 * Media block with animated text background
 * Testimonials sliders with adjustable number of visible slides
 
 ###  What's new in Mobirise v3.05
-* Added <a href="https://mobirise.com/extensions/blockpack/">30+ new blocks</a> for Mobirise 3 theme
+* Added 30+ new blocksfor Mobirise 3 theme
 * Added tags filter to gallery blocks
-* Added new 2100 perfect icons to <a href="https://mobirise.com/extensions/icons.html">'Icons'</a> extension
+* Added new 2100 perfect icons to Icons extension
+
 <a href="https://mobirise.com">
 <img src="https://mobirise.com/assets3/images/v305_1.jpg">
 </a>
@@ -112,7 +117,7 @@
 <img src="https://mobirise.com/assets3/images/v305_4.jpg">
 </a>
 <a href="https://mobirise.com">
-<https://mobirise.com/assets3/images/v305_2.jpg">
+<img src="https://mobirise.com/assets3/images/v305_2.jpg">
 </a>
 <a href="https://mobirise.com">
 <img src="https://mobirise.com/assets3/images/v305_3.jpg">
@@ -133,8 +138,8 @@
 * Fixed "non-loading" bug with old extensions and themes
 
 ### What's new in Mobirise v3.0
-* Brand-new free defa­ult theme - new block­s, colors, fonts, icons
-* New image gallery a­nd slider - now with video slides
+* Brand-new free default theme - new blocks, colors, fonts, icons
+* New image gallery and slider - now with video slides
 * New drop-down menu - included by default
 * Added animation on scroll
 * Fixed Google Maps
