@@ -1,6 +1,56 @@
 # Mobirise
 ## [Mobile Bootstrap Website Builder](https://mobirise.com/)
 
+
+### Mobirise v3.10
+* New DirectM business theme. 80 blocks with gradients, forms, tables, tabs, accordions etc.
+* Free images library - select beautiful, hi-res images from the free, Creative Commons collection.
+* Fully updated FTP client: SFTP, FTPS, FTP supported, bug fixes
+* Mobirise Icons - 124 pixel-perfect icons in 24px and 30px format
+
+### Mobirise v3.09
+* Publish to GitHub Pages
+* Publish changed files only to FTP and GitHub
+* Support for Vimeo in Gallery blocks
+
+### Mobirise v3.08.5
+* Added 'Mobirise Icons' font. You can use it in all themes
+* New blocks in "ColorM" theme:
+* Full-width headers
+* Intro with video pop up
+* Full-screen intro with "typed" text effect
+* Blocks with 'contact us' and 'subscribe' forms
+* Round progress bars
+* Tabs, accordionds and toggle blocks
+* Different footers
+* Bug fixes in mobirise3 and other themes.
+
+### Mobirise v3.08.4
+* New "ColorM" theme added. Take a look at some blocks:
+* Shop
+* Blocks with forms
+* Accordions & toggles
+* Countdowns
+* 'Team' blocks
+* Progressbars
+* Block with animated text background
+* Added anchor preview. Hover on page anchors and you will see a thumbnail on the right side
+* Added project history. Revert to any previous version of your project
+* Mobirise application now supports high screen resolution (e.g. retina)
+* Added 'Table' block to the 'Block Pack' extension
+* Bug fixes in 'BlockPack', 'SpaceM', 'Mobirise1' and 'Mobirse3' themes
+
+### Mobirise v3.08.1
+* Save and Reuse Blocks - Now you can save blocks and use them on other pages or sites if they are created with same theme
+* Block Filter - filter the block list by "Blocks from Theme", "Blocks from Extensions", "Blocks Saved by User"
+* Some UI improvements
+* Bug fixes in BlockPack, SpaceM, Mobirise1 and Mobirse3 themes
+
+### Mobirise v3.07
+* Added 'Shop' block to the 'Block Pack' extension. Sort and filter your items by price and category. Select your best sellers and 'On Sale' products
+* Updated and fixed inline text editor. Now only main options are shown by default. Click 'More' button to expand the editor
+* Bug fixes
+
 ### What's new in Mobirise v3.06.4
 * New SpaceM theme
 * Updated Icons extension - 1000 new icons added (6600+ icons total)
