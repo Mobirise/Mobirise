@@ -16,6 +16,10 @@
 * Publish changed files only to FTP and GitHub
 * Support for Vimeo in Gallery blocks
 
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/publish-to-github-pages.jpg">
+</a>
+
 ### Mobirise v3.08.5
 * Added 'Mobirise Icons' font. You can use it in all themes
 * New blocks in "ColorM" theme:
