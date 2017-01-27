@@ -12,7 +12,7 @@
 </a>
 
 ### Mobirise v3.09
-* Publish to GitHub Pages
+* Publish to <a href="https://mobirise.com/help/github-pages-tutorial-301.html">GitHub Pages</a>
 * Publish changed files only to FTP and GitHub
 * Support for Vimeo in Gallery blocks
 
