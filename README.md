@@ -1,6 +1,33 @@
 # Mobirise
 ## [Mobile Bootstrap Website Builder](https://mobirise.com/)
 
+### Mobirise v3.12
+* Users with paid extensions can install versions of extensions they have after the end of the free update period
+* Site image library improvement - overall speed increased, you don't have to wait images loading
+* Mobirise 3: RTL (you can enable this feature in Style Changer), minor fixes
+* WowSlider: wrong image size issue fixed
+
+### Mobirise v3.11.1
+* Site Image Library - view, manage and select images already used on the site. Easily find and remove duplicates
+* Free Online library - select beautiful, hi-res images from the free, Creative Commons collection
+* Bug fixes
+* Resize images in media blocks in Mobirise 3.10.2
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/v3111_1.jpg">
+</a>
+
+### Mobirise v3.10.8
+* Bug fixes for themes, FTP, Link dialog
+
+### Mobirise v3.10.2
+* "Media size" control to easyly resize images and videos in all themes (don't forget update your themes)
+* "Code Editor" extension update: now you can still edit text blocks and buttons visualy with unlocked HTML editor
+* Free image Library added to sliders, galleries and backgrounds
+* Bug fixes for themes, FTP, GitHub
+* Resize images in media blocks in Mobirise 3.10.2
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/media-resize.jpg">
+</a>
 
 ### Mobirise v3.10
 * New DirectM business theme. 80 blocks with gradients, forms, tables, tabs, accordions etc.
