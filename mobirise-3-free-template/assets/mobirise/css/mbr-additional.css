@@ -1,0 +1,1146 @@
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+
+
+body,
+input,
+textarea,
+.mbr-company .list-group-text {
+  font-family: 'Roboto', sans-serif;
+}
+.mbr-footer-content li,
+.mbr-footer .mbr-contacts li {
+  font-family: 'Roboto', sans-serif;
+}
+.btn,
+.alert,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+.display-1,
+.display-2,
+.display-3,
+.display-4,
+.mbr-figure .mbr-figure-caption,
+.mbr-gallery-title,
+.mbr-map [data-state-details],
+.mbr-price {
+  font-family: 'Oxygen', sans-serif;
+}
+.mbr-footer-content h1,
+.mbr-footer .mbr-contacts h1,
+.mbr-footer-content h2,
+.mbr-footer .mbr-contacts h2,
+.mbr-footer-content h3,
+.mbr-footer .mbr-contacts h3,
+.mbr-footer-content h4,
+.mbr-footer .mbr-contacts h4,
+.mbr-footer-content p strong,
+.mbr-footer .mbr-contacts p strong,
+.mbr-footer-content strong,
+.mbr-footer .mbr-contacts strong {
+  font-family: 'Oxygen', sans-serif;
+}
+.btn-sm,
+.lead a,
+.lead blockquote,
+.mbr-section-subtitle,
+.mbr-section-hero .mbr-section-lead,
+.mbr-cards .card-subtitle,
+.mbr-testimonial .card-block {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.mbr-author-name {
+  font-family: 'Oxygen', sans-serif;
+}
+.mbr-author-desc {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.mbr-plan-title {
+  font-family: 'Oxygen', sans-serif;
+}
+.mbr-plan-subtitle,
+.mbr-plan-price-desc {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.bg-primary {
+  background-color: #4a464d !important;
+}
+.bg-success {
+  background-color: #9f7eae !important;
+}
+.bg-info {
+  background-color: #8bb6cc !important;
+}
+.bg-warning {
+  background-color: #84a7cf !important;
+}
+.bg-danger {
+  background-color: #a18ba4 !important;
+}
+.btn-primary {
+  background-color: #4a464d;
+  border-color: #4a464d;
+  color: #ffffff;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary.focus,
+.btn-primary:active,
+.btn-primary.active {
+  color: #ffffff;
+  background-color: #232225;
+  border-color: #232225;
+}
+.btn-primary.disabled,
+.btn-primary:disabled {
+  color: #ffffff !important;
+  background-color: #232225 !important;
+  border-color: #232225 !important;
+}
+.btn-secondary {
+  background-color: #000000;
+  border-color: #000000;
+  color: #ffffff;
+}
+.btn-secondary:hover,
+.btn-secondary:focus,
+.btn-secondary.focus,
+.btn-secondary:active,
+.btn-secondary.active {
+  color: #ffffff;
+  background-color: #000000;
+  border-color: #000000;
+}
+.btn-secondary.disabled,
+.btn-secondary:disabled {
+  color: #ffffff !important;
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.btn-info {
+  background-color: #8bb6cc;
+  border-color: #8bb6cc;
+  color: #ffffff;
+}
+.btn-info:hover,
+.btn-info:focus,
+.btn-info.focus,
+.btn-info:active,
+.btn-info.active {
+  color: #ffffff;
+  background-color: #5695b5;
+  border-color: #5695b5;
+}
+.btn-info.disabled,
+.btn-info:disabled {
+  color: #ffffff !important;
+  background-color: #5695b5 !important;
+  border-color: #5695b5 !important;
+}
+.btn-success {
+  background-color: #9f7eae;
+  border-color: #9f7eae;
+  color: #ffffff;
+}
+.btn-success:hover,
+.btn-success:focus,
+.btn-success.focus,
+.btn-success:active,
+.btn-success.active {
+  color: #ffffff;
+  background-color: #795689;
+  border-color: #795689;
+}
+.btn-success.disabled,
+.btn-success:disabled {
+  color: #ffffff !important;
+  background-color: #795689 !important;
+  border-color: #795689 !important;
+}
+.btn-warning {
+  background-color: #84a7cf;
+  border-color: #84a7cf;
+  color: #ffffff;
+}
+.btn-warning:hover,
+.btn-warning:focus,
+.btn-warning.focus,
+.btn-warning:active,
+.btn-warning.active {
+  color: #ffffff;
+  background-color: #4d80ba;
+  border-color: #4d80ba;
+}
+.btn-warning.disabled,
+.btn-warning:disabled {
+  color: #ffffff !important;
+  background-color: #4d80ba !important;
+  border-color: #4d80ba !important;
+}
+.btn-danger {
+  background-color: #a18ba4;
+  border-color: #a18ba4;
+  color: #ffffff;
+}
+.btn-danger:hover,
+.btn-danger:focus,
+.btn-danger.focus,
+.btn-danger:active,
+.btn-danger.active {
+  color: #ffffff;
+  background-color: #7c647f;
+  border-color: #7c647f;
+}
+.btn-danger.disabled,
+.btn-danger:disabled {
+  color: #ffffff !important;
+  background-color: #7c647f !important;
+  border-color: #7c647f !important;
+}
+.btn-primary-outline {
+  background: none;
+  border-color: #171518;
+  color: #171518;
+}
+.btn-primary-outline:hover,
+.btn-primary-outline:focus,
+.btn-primary-outline.focus,
+.btn-primary-outline:active,
+.btn-primary-outline.active {
+  color: #ffffff;
+  background-color: #4a464d;
+  border-color: #4a464d;
+}
+.btn-primary-outline.disabled,
+.btn-primary-outline:disabled {
+  color: #ffffff !important;
+  background-color: #4a464d !important;
+  border-color: #4a464d !important;
+}
+.btn-secondary-outline {
+  background: none;
+  border-color: #000000;
+  color: #000000;
+}
+.btn-secondary-outline:hover,
+.btn-secondary-outline:focus,
+.btn-secondary-outline.focus,
+.btn-secondary-outline:active,
+.btn-secondary-outline.active {
+  color: #ffffff;
+  background-color: #000000;
+  border-color: #000000;
+}
+.btn-secondary-outline.disabled,
+.btn-secondary-outline:disabled {
+  color: #ffffff !important;
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.btn-info-outline {
+  background: none;
+  border-color: #4a88a7;
+  color: #4a88a7;
+}
+.btn-info-outline:hover,
+.btn-info-outline:focus,
+.btn-info-outline.focus,
+.btn-info-outline:active,
+.btn-info-outline.active {
+  color: #ffffff;
+  background-color: #8bb6cc;
+  border-color: #8bb6cc;
+}
+.btn-info-outline.disabled,
+.btn-info-outline:disabled {
+  color: #ffffff !important;
+  background-color: #8bb6cc !important;
+  border-color: #8bb6cc !important;
+}
+.btn-success-outline {
+  background: none;
+  border-color: #6b4c7a;
+  color: #6b4c7a;
+}
+.btn-success-outline:hover,
+.btn-success-outline:focus,
+.btn-success-outline.focus,
+.btn-success-outline:active,
+.btn-success-outline.active {
+  color: #ffffff;
+  background-color: #9f7eae;
+  border-color: #9f7eae;
+}
+.btn-success-outline.disabled,
+.btn-success-outline:disabled {
+  color: #ffffff !important;
+  background-color: #9f7eae !important;
+  border-color: #9f7eae !important;
+}
+.btn-warning-outline {
+  background: none;
+  border-color: #4373aa;
+  color: #4373aa;
+}
+.btn-warning-outline:hover,
+.btn-warning-outline:focus,
+.btn-warning-outline.focus,
+.btn-warning-outline:active,
+.btn-warning-outline.active {
+  color: #ffffff;
+  background-color: #84a7cf;
+  border-color: #84a7cf;
+}
+.btn-warning-outline.disabled,
+.btn-warning-outline:disabled {
+  color: #ffffff !important;
+  background-color: #84a7cf !important;
+  border-color: #84a7cf !important;
+}
+.btn-danger-outline {
+  background: none;
+  border-color: #6e5871;
+  color: #6e5871;
+}
+.btn-danger-outline:hover,
+.btn-danger-outline:focus,
+.btn-danger-outline.focus,
+.btn-danger-outline:active,
+.btn-danger-outline.active {
+  color: #ffffff;
+  background-color: #a18ba4;
+  border-color: #a18ba4;
+}
+.btn-danger-outline.disabled,
+.btn-danger-outline:disabled {
+  color: #ffffff !important;
+  background-color: #a18ba4 !important;
+  border-color: #a18ba4 !important;
+}
+.text-primary {
+  color: #4a464d !important;
+}
+.text-success {
+  color: #9f7eae !important;
+}
+.text-info {
+  color: #8bb6cc !important;
+}
+.text-warning {
+  color: #84a7cf !important;
+}
+.text-danger {
+  color: #a18ba4 !important;
+}
+.alert-success {
+  background-color: #9f7eae;
+}
+.alert-info {
+  background-color: #8bb6cc;
+}
+.alert-warning {
+  background-color: #84a7cf;
+}
+.alert-danger {
+  background-color: #a18ba4;
+}
+.btn-social {
+  border-color: #4a464d;
+}
+.btn-social:hover {
+  background: #4a464d;
+}
+.mbr-company .list-group-item.active .list-group-text {
+  color: #4a464d;
+}
+.mbr-footer p a,
+.mbr-footer ul a {
+  color: #4a464d;
+}
+.mbr-footer-content li::before,
+.mbr-footer .mbr-contacts li::before {
+  background: #4a464d;
+}
+.mbr-footer-content li a:hover,
+.mbr-footer .mbr-contacts li a:hover {
+  color: #4a464d;
+}
+.lead a,
+.lead a:hover {
+  color: #4a464d;
+}
+.lead blockquote {
+  border-color: #4a464d;
+}
+.mbr-plan-header.bg-primary .mbr-plan-subtitle,
+.mbr-plan-header.bg-primary .mbr-plan-price-desc {
+  color: #bdb9bf;
+}
+.mbr-plan-header.bg-success .mbr-plan-subtitle,
+.mbr-plan-header.bg-success .mbr-plan-price-desc {
+  color: #d9ccdf;
+}
+.mbr-plan-header.bg-info .mbr-plan-subtitle,
+.mbr-plan-header.bg-info .mbr-plan-price-desc {
+  color: #ffffff;
+}
+.mbr-plan-header.bg-warning .mbr-plan-subtitle,
+.mbr-plan-header.bg-warning .mbr-plan-price-desc {
+  color: #ffffff;
+}
+.mbr-plan-header.bg-danger .mbr-plan-subtitle,
+.mbr-plan-header.bg-danger .mbr-plan-price-desc {
+  color: #dbd2dc;
+}
+.mbr-small-footer a,
+.mbr-gallery-filter li:hover {
+  color: #4a464d;
+}
+.scrollToTop_wraper {
+  opacity: 0 !important;
+}
+.extCountdown1 .number,
+.extCountdown2 .number {
+  font-family: 'Oxygen', sans-serif;
+}
+.extCountdown1 .period,
+.extCountdown2 .period {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.extCountdown1 .dot,
+.extCountdown2 .dot {
+  font-family: 'Oxygen', sans-serif;
+}
+.features6 .feature-subtitle {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.features6 .feature-title {
+  font-family: 'Oxygen', sans-serif;
+}
+.features6 .description {
+  font-family: 'Roboto', sans-serif;
+}
+.count,
+.counter-title {
+  font-family: 'Oxygen', sans-serif;
+}
+.counter-subtitle {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.mbr-iconfont-counters1 {
+  color: #4a464d;
+}
+.extHeader1 .container h3,
+.extHeader2 .container h3,
+.extHeader3 .container h3,
+.extHeader5 .container h3,
+.extHeader6 .container h3,
+.extHeader7 .container h3,
+.extHeader8 .container h3,
+.extHeader9 .container h3,
+.extHeader10 .container h3,
+.extHeader12 .container h3,
+.extHeader13 .container h3,
+.extFeatures10 .container h3 {
+  font-family: 'Oxygen', sans-serif;
+}
+.extHeader1 .container p,
+.extHeader2 .container p,
+.extHeader3 .container p,
+.extHeader5 .container p,
+.extHeader6 .container p,
+.extHeader7 .container p,
+.extHeader8 .container p,
+.extHeader9 .container p,
+.extHeader10 .container p,
+.extHeader12 .container p,
+.extHeader13 .container p,
+.extFeatures10 .container p {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.extHeader5 .container label {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.extHeader9 form p.form-subtitle {
+  font-family: 'Oxygen', sans-serif;
+}
+.extHeader11 .container span {
+  font-family: 'Oxygen', sans-serif;
+}
+.extHeader11 .container p.element {
+  font-family: 'Oxygen', sans-serif;
+}
+.extHeader11 .container p {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.extHeader12 h4,
+.extFeatures10 h4 {
+  font-family: 'Oxygen', sans-serif;
+}
+.extHeader12 .subtitle,
+.extFeatures10 .subtitle {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.extHeader13 h4 {
+  font-family: 'Oxygen', sans-serif;
+}
+.extHeader13 .number {
+  font-family: 'Oxygen', sans-serif;
+}
+.extHeader13 .period {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.extHeader13 .dot {
+  font-family: 'Oxygen', sans-serif;
+}
+.extFeatures .feature-title {
+  font-family: 'Oxygen', sans-serif;
+}
+.extFeatures .feature-subtitle {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.extFeatures .feature-text {
+  font-family: 'Roboto', sans-serif;
+}
+.extFeatures2 h4 {
+  font-family: 'Oxygen', sans-serif;
+}
+.extFeatures3 .border-wrap {
+  border-color: #4a464d;
+}
+.extFeatures4 h4,
+.extFeatures6 h4,
+.extFeatures5 .card-title h4 {
+  font-family: 'Oxygen', sans-serif;
+}
+.extFeatures4 h5,
+.extFeatures6 h5,
+.extFeatures5 .card-title h5 {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.extForm1 h4,
+.extForm2 h4,
+.extForm3 h4,
+.extForm4 h4 {
+  font-family: 'Oxygen', sans-serif;
+}
+.extForm1 .subtitle,
+.extForm2 .subtitle,
+.extForm3 .subtitle,
+.extForm4 .subtitle {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.extForm2 .container h3 {
+  font-family: 'Oxygen', sans-serif;
+}
+.extForm2 .container p {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.extPricingTable1 .bottom_line {
+  border-bottom-color: #4a464d;
+}
+.extPricingTable1 .mbr-price small {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.extPricingTable1 .mbr-plan-label {
+  background: #4a464d;
+}
+.extCounters2 h4 {
+  font-family: 'Oxygen', sans-serif;
+}
+.extCounters2 h5 {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.extCounters3 .count {
+  font-family: 'Oxygen', sans-serif;
+}
+.extCounters3 .counter-title {
+  font-family: 'Oxygen', sans-serif;
+}
+.extCounters3 .counter-subtitle {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.extProgressBar .progress-primary[value]::-webkit-progress-value {
+  background-color: #4a464d;
+}
+.extProgressBar .progress-primary[value]::-moz-progress-bar {
+  background-color: #4a464d;
+}
+@media screen and (min-width: 0\0) {
+  .extProgressBar .progress-primary .progress-bar {
+    background-color: #4a464d;
+  }
+}
+.extProgressBar .title-wrap {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.extProgressBarRound .progress-radial .overlay {
+  font-family: 'Oxygen', sans-serif;
+}
+.extProgressBar4 .feature-title {
+  font-family: 'Oxygen', sans-serif;
+}
+.extProgressBar4 .feature-subtitle {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.extTabs1 ul.nav-tabs li a:hover,
+.extTabs2 ul.nav-tabs li a:hover {
+  color: #4a464d;
+}
+.extAccordion1 .panel-heading a {
+  font-family: 'Roboto', sans-serif;
+}
+.extAccordion1 .pseudoPlus,
+.extAccordion2 .pseudoPlus,
+.extToggle1 .pseudoPlus,
+.extAccordion1 .pseudoPlus:after,
+.extAccordion2 .pseudoPlus:after,
+.extToggle1 .pseudoPlus:after,
+.extAccordion1 .pseudoMinus,
+.extAccordion2 .pseudoMinus,
+.extToggle1 .pseudoMinus {
+  background-color: #4a464d;
+}
+.extAccordion2 .panel-heading a,
+.extAccordion3 .panel-heading a,
+.extToggle1 .panel-heading a {
+  font-family: 'Roboto', sans-serif;
+}
+.extProgressBar5 .progress-primary[value]::-webkit-progress-value {
+  background-color: #4a464d;
+}
+.extProgressBar5 .progress-primary[value]::-moz-progress-bar {
+  background-color: #4a464d;
+}
+@media screen and (min-width: 0\0) {
+  .extProgressBar5 .progress-primary .progress-bar {
+    background-color: #4a464d;
+  }
+}
+.extProgressBar5 .title-wrap {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.extMsg-box1 .container h3 {
+  font-family: 'Oxygen', sans-serif;
+}
+.extMsg-box1 .container p {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.extMsg-box1 h4 {
+  font-family: 'Oxygen', sans-serif;
+}
+.extMsg-box1 .subtitle {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.extMsg-box2 .container span,
+.extMsg-box3 .container span,
+.extMsg-box4 .container span {
+  font-family: 'Oxygen', sans-serif;
+}
+.extMsg-box2 .container p,
+.extMsg-box3 .container p,
+.extMsg-box4 .container p {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+.extProgressBarRound .pie_progress__number {
+  font-family: 'Oxygen', sans-serif;
+}
+.extMenu1 span.icon a:hover {
+  color: #4a464d !important;
+}
+.extProgressBar .progress-primary[value]::-ms-fill {
+  color: #4a464d;
+}
+.extProgressBar5 .progress-primary[value]::-ms-fill {
+  color: #4a464d;
+}
+.theme-border {
+  border: 1px solid #4a464d;
+}
+#menu-12 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-12 .navbar-caption {
+  color: #ffffff;
+}
+#menu-12 .navbar-toggler {
+  color: #000000;
+}
+#menu-12 .close-icon::before,
+#menu-12 .close-icon::after {
+  background-color: #000000;
+}
+#menu-12 .link,
+#menu-12 .dropdown-item {
+  color: #000000;
+}
+#menu-12 .link {
+  font-size: 0.75rem;
+}
+#menu-12 .dropdown-item,
+#menu-12 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-12 .link:hover,
+#menu-12 .dropdown-item:hover,
+#menu-12 .link:focus,
+#menu-12 .dropdown-item:focus {
+  color: #4a464d;
+}
+#menu-12 .link[aria-expanded="true"],
+#menu-12 .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-12 .nav-dropdown-sm .link:focus,
+#menu-12 .nav-dropdown-sm .link:hover,
+#menu-12 .nav-dropdown-sm .dropdown-item:focus,
+#menu-12 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-12 .navbar,
+#menu-12 .nav-dropdown-sm,
+#menu-12 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-12 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-12 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-12 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-12 .bg-color.transparent.opened .link:hover,
+#menu-12 .bg-color.transparent.opened .link:focus {
+  color: #4a464d;
+}
+#menu-12 .link[aria-expanded="true"],
+#menu-12 .dropdown-item[aria-expanded="true"] {
+  color: #4a464d!important;
+}
+#menu-12 span {
+  font-weight: bold !important;
+}
+#header3-13 .mbr-section-title,
+#header3-13 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-13 H3 {
+  color: #ffffff;
+}
+#header3-13 h3 {
+  font-family: "Montserrat";
+}
+#header3-13 .mbr-section {
+  background: linear-gradient(to right, #80deea, #ba68c8) !important;
+}
+#header1-15 .mbr-section-title {
+  color: #000000;
+}
+#header1-15 .mbr-section-lead {
+  color: #000000;
+}
+#header4-16 .mbr-section-lead {
+  color: #232323;
+}
+#header4-16 .mbr-section-title {
+  color: #232323;
+}
+#msg-box8-18 .mbr-section-title,
+#msg-box8-18 p {
+  color: #fff;
+}
+#msg-box8-18 h3 {
+  font-family: "Montserrat";
+}
+#msg-box8-18.mbr-section {
+  background: linear-gradient(to right, #80deea, #ba68c8) !important;
+}
+#slider-19 H2 {
+  color: #ffffff;
+}
+#slider-19 P {
+  color: #ffffff;
+}
+#slider3-1a H2 {
+  color: #ffffff;
+  text-align: center;
+}
+#slider3-1a P {
+  color: #ffffff;
+}
+#msg-box8-1b .mbr-section-title,
+#msg-box8-1b p {
+  color: #fff;
+}
+#msg-box8-1b h3 {
+  font-family: "Montserrat";
+}
+#msg-box8-1b.mbr-section {
+  background: linear-gradient(to right, #80deea, #ba68c8) !important;
+}
+#msg-box8-1f .mbr-section-title,
+#msg-box8-1f p {
+  color: #fff;
+}
+#msg-box8-1f h3 {
+  font-family: "Montserrat";
+}
+#msg-box8-1f.mbr-section {
+  background: linear-gradient(to right, #80deea, #ba68c8) !important;
+}
+#features4-1i .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-1i .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features1-1j .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #7c7c7c;
+}
+#features1-1j .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #ffffff;
+}
+#msg-box8-1k .mbr-section-title,
+#msg-box8-1k p {
+  color: #fff;
+}
+#msg-box8-1k h3 {
+  font-family: "Montserrat";
+}
+#msg-box8-1k.mbr-section {
+  background: linear-gradient(to right, #80deea, #ba68c8) !important;
+}
+#msg-box8-1n .mbr-section-title,
+#msg-box8-1n p {
+  color: #fff;
+}
+#msg-box8-1n h3 {
+  font-family: "Montserrat";
+}
+#msg-box8-1n.mbr-section {
+  background: linear-gradient(to right, #80deea, #ba68c8) !important;
+}
+#msg-box8-1o .mbr-section-title,
+#msg-box8-1o p {
+  color: #fff;
+}
+#header3-1p .mbr-section-title,
+#header3-1p .mbr-section-subtitle {
+  text-align: center;
+}
+#slider2-1v .mbr-section-title,
+#slider2-1v .mbr-section-lead {
+  color: #fff;
+}
+#msg-box8-1x .mbr-section-title,
+#msg-box8-1x p {
+  color: #fff;
+}
+#msg-box8-1x h3 {
+  font-family: "Montserrat";
+}
+#msg-box8-1x.mbr-section {
+  background: linear-gradient(to right, #80deea, #ba68c8) !important;
+}
+#msg-box2-1y .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-1y .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#content5-1z .mbr-section-title,
+#content5-1z p {
+  color: #fff;
+}
+#content8-20 .mbr-section-title,
+#content8-20 p {
+  text-align: right;
+  color: #fff;
+}
+#msg-box3-21 .mbr-section-title,
+#msg-box3-21 p {
+  color: #000;
+}
+#msg-box8-22 .mbr-section-title,
+#msg-box8-22 p {
+  color: #fff;
+}
+#msg-box8-22 h3 {
+  font-family: "Montserrat";
+}
+#msg-box8-22.mbr-section {
+  background: linear-gradient(to right, #80deea, #ba68c8) !important;
+}
+#testimonials3-24 .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-24 .mbr-author-name {
+  color: #ccc;
+}
+#testimonials4-25 .mbr-section-title {
+  color: #ffffff;
+}
+#testimonials4-25 .card-footer > div {
+  color: #ffffff;
+}
+#msg-box8-26 .mbr-section-title,
+#msg-box8-26 p {
+  color: #fff;
+}
+#msg-box8-26 h3 {
+  font-family: "Montserrat";
+}
+#msg-box8-26.mbr-section {
+  background: linear-gradient(to right, #80deea, #ba68c8) !important;
+}
+#social-buttons3-28 .mbr-section-title,
+#social-buttons3-28 .btn-social {
+  color: #fff;
+}
+#social-buttons2-29 .mbr-section-title,
+#social-buttons2-29 .btn-social {
+  color: #232323;
+}
+#social-buttons4-2a .mbr-section-title,
+#social-buttons4-2a .btn-social {
+  color: #fff;
+}
+#msg-box8-2b .mbr-section-title,
+#msg-box8-2b p {
+  color: #fff;
+}
+#msg-box8-2b h3 {
+  font-family: "Montserrat";
+}
+#msg-box8-2b.mbr-section {
+  background: linear-gradient(to right, #80deea, #ba68c8) !important;
+}
+#pricing-table1-2c .mbr-section__container .mbr-section-title {
+  color: #fff;
+}
+#pricing-table1-2c .mbr-section__container .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#pricing-table1-2c .bg-primary {
+  background-color: #1565c0 !important;
+}
+#pricing-table2-2d .mbr-plan-header,
+#pricing-table2-2d .mbr-plan-body {
+  background-color: #f4f4f4;
+}
+#pricing-table2-2d ul,
+#pricing-table2-2d .mbr-plan-title,
+#pricing-table2-2d .mbr-price-value,
+#pricing-table2-2d .mbr-price-figure,
+#pricing-table2-2d .mbr-price-term {
+  color: #28262b;
+}
+#pricing-table2-2d .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-2d .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
+#pricing-table2-2d .mbr-plan-price-desc {
+  color: #232323;
+}
+#pricing-table2-2d .mbr-plan-subtitle {
+  color: #000000;
+}
+#pricing-table2-2d .bg-primary {
+  background-color: #b39ddb !important;
+}
+#msg-box8-2e .mbr-section-title,
+#msg-box8-2e p {
+  color: #fff;
+}
+#msg-box8-2e h3 {
+  font-family: "Montserrat";
+}
+#msg-box8-2e.mbr-section {
+  background: linear-gradient(to right, #80deea, #ba68c8) !important;
+}
+#form1-2h .form-control-label {
+  color: #232323;
+}
+#form2-2i .mbr-section-title {
+  color: #fff;
+}
+#form2-2i .mbr-section-subtitle {
+  color: #ffffff;
+}
+#msg-box8-2g .mbr-section-title,
+#msg-box8-2g p {
+  color: #fff;
+}
+#msg-box8-2g h3 {
+  font-family: "Montserrat";
+}
+#msg-box8-2g.mbr-section {
+  background: linear-gradient(to right, #80deea, #ba68c8) !important;
+}
+#msg-box8-2f .mbr-section-title,
+#msg-box8-2f p {
+  color: #fff;
+}
+#msg-box8-2f h3 {
+  font-family: "Montserrat";
+}
+#msg-box8-2f.mbr-section {
+  background: linear-gradient(to right, #80deea, #ba68c8) !important;
+}
+#contacts1-2m P {
+  color: #000000;
+}
+#contacts2-2n STRONG {
+  color: #ffffff;
+}
+#contacts4-2o STRONG {
+  color: #ffffff;
+}
+#contacts3-2l H4 {
+  color: #ffffff;
+}
+#contacts3-2l STRONG {
+  color: #ffffff;
+}
+#footer1-2p P {
+  color: #ffffff;
+}
+#menu-1 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1 .navbar-caption {
+  color: #ffffff;
+}
+#menu-1 .navbar-toggler {
+  color: #000000;
+}
+#menu-1 .close-icon::before,
+#menu-1 .close-icon::after {
+  background-color: #000000;
+}
+#menu-1 .link,
+#menu-1 .dropdown-item {
+  color: #000000;
+}
+#menu-1 .link {
+  font-size: 0.75rem;
+}
+#menu-1 .dropdown-item,
+#menu-1 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-1 .link:hover,
+#menu-1 .dropdown-item:hover,
+#menu-1 .link:focus,
+#menu-1 .dropdown-item:focus {
+  color: #4a464d;
+}
+#menu-1 .link[aria-expanded="true"],
+#menu-1 .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-1 .nav-dropdown-sm .link:focus,
+#menu-1 .nav-dropdown-sm .link:hover,
+#menu-1 .nav-dropdown-sm .dropdown-item:focus,
+#menu-1 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-1 .navbar,
+#menu-1 .nav-dropdown-sm,
+#menu-1 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-1 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-1 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1 .bg-color.transparent.opened .link:hover,
+#menu-1 .bg-color.transparent.opened .link:focus {
+  color: #4a464d;
+}
+#menu-1 .link[aria-expanded="true"],
+#menu-1 .dropdown-item[aria-expanded="true"] {
+  color: #4a464d!important;
+}
+#menu-1 span {
+  font-weight: bold !important;
+}
+#header1-36 .mbr-section-lead {
+  color: #000000;
+}
+#header1-36 .mbr-section-title {
+  color: #000000;
+}
+#header3-3z .mbr-section-title,
+#header3-3z .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3v .mbr-section-title,
+#header3-3v .mbr-section-subtitle {
+  text-align: center;
+}
+#features3-3s P {
+  text-align: left;
+}
+@media (max-width: 991px) {
+  #features3-3y .hideinthedark {
+    display: none;
+  }
+}
+#header3-42 .mbr-section-title,
+#header3-42 .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box3-40 .mbr-section-title,
+#msg-box3-40 p {
+  color: #000;
+}
+#footer1-2p P {
+  color: #ffffff;
+}
+#footer1-2p p {
+  color: #FFF;
+}
