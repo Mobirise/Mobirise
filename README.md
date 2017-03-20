@@ -1,6 +1,10 @@
 # Mobirise
 ## [Mobile Bootstrap Website Builder](https://mobirise.com/)
 
+### [Free HTML Bootstrap Template](https://mobirise.com/free-template/)
+
+### [Mobile Icons](https://mobiriseicons.com/)
+
 ### Mobirise v3.12
 * Users with paid extensions can install versions of extensions they have after the end of the free update period
 * Site image library improvement - overall speed increased, you don't have to wait images loading
