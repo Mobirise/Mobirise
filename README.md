@@ -5,7 +5,7 @@
 
 ### [Mobile Icons](https://mobiriseicons.com/)
 
-### Mobirise v4.0
+### Mobirise v4.0 Beta
 *	Brand-new core engine - the app works much faster and smoother now
 *	New Mobirise4 theme - 91 new blocks
 *	Updated interface
