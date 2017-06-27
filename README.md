@@ -5,6 +5,14 @@
 
 ### [Mobile Icons](https://mobiriseicons.com/)
 
+### Mobirise v4.0
+*	Brand-new core engine - the app works much faster and smoother now
+*	New Mobirise4 theme - 91 new blocks
+*	Updated interface
+*	Code Editor is updated
+*	Undo feature is added
+*	Updated Mobirise Icons
+
 ### Mobirise v3.12
 * Users with paid extensions can install versions of extensions they have after the end of the free update period
 * Site image library improvement - overall speed increased, you don't have to wait images loading
