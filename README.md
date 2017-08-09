@@ -18,6 +18,18 @@
 * FTP client fixes
 * Changes in inline editor
 
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/mobirise4-theme2.jpg">
+</a>
+
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/mbr41.jpg">
+</a>
+
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/mbr43.jpg">
+</a>
+
 ### Mobirise v4.0 Beta
 *	Brand-new core engine - the app works much faster and smoother now
 *	New Mobirise4 theme - 91 new blocks
