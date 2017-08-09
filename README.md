@@ -5,6 +5,19 @@
 
 ### [Mobile Icons](https://mobiriseicons.com/)
 
+### Mobirise v4.1
+* Brand-new core engine - the app works much faster and smoother now
+* New Mobirise4 theme - 107 new blocks
+* Updated interface
+* Code Editor is updated
+* Undo is added
+* Updated Mobirise Icons
+* 840 Google fonts
+* Option to add any custom fonts
+* Improved page management
+* FTP client fixes
+* Changes in inline editor
+
 ### Mobirise v4.0 Beta
 *	Brand-new core engine - the app works much faster and smoother now
 *	New Mobirise4 theme - 91 new blocks
