@@ -7,14 +7,16 @@
 
 ### Mobirise v4.3.0
 
-* New "Link to" dialog with:
-** Option to add files to site and link them (pdf, doc, xls, etc..)
-** Email
-** Phone
-** Web Address
+* New "Link to" dialog with: Option to add files to site and link them (pdf, doc, xls, etc..); Email; Phone; Web Address
 * Updated PayPal Shopping Cart
 * Fixed duplicated images on publishing
 * Minor fixes
+* [LawyerM4 Bootstrap Theme](https://mobirise.com/extensions/lawyerm4/) - Dark, minimal and tidy theme for lawyers, legal firms, attorneys and related legal professionals. LawyerM4 is compatible with Mobirise 4 themes - you can interchange user blocks between your projects.
+
+<a href="https://mobirise.com/extensions/agencym4/">
+<img src="https://mobirise.com/extensions/lawyerm4/assets/images/8642e532-eb22-461b-b88c-84c2a487959-2800x729.jpg">
+</a>
+
 
 ### Mobirise v4.2.4
 
