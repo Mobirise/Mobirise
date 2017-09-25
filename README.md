@@ -5,6 +5,49 @@
 
 ### [Mobile Icons](https://mobiriseicons.com/)
 
+### Mobirise v4.3.0
+
+* New "Link to" dialog with:
+** Option to add files to site and link them (pdf, doc, xls, etc..)
+** Email
+** Phone
+** Web Address
+* Updated PayPal Shopping Cart
+* Fixed duplicated images on publishing
+* Minor fixes
+
+### Mobirise v4.2.4
+
+* New [AgencyM4 Theme](https://mobirise.com/extensions/agencym4/). Theme for companies and agencies with 70+ blocks. New gradient overlays, working hours sections, and an extended set of dropdown menus and intro sections. AgencyM4 is compatible with Mobirise 4 Theme: you can move Mobirise4 and AgencyM4 user blocks between your projects.
+* WOW Slider extension fixed
+* Extensions updated – Social Feed, Social Comments, SoundCloud
+* Compatibility issue with some 3rd-party themes fixed (Clarus, Sleek, Unicore..)
+* Site thumbnail creation fixed
+* Fix: WOWSlider extension
+* Update: Home pages in Italian (please contact at support@mobirise.com if you find mistakes in texts)
+
+<a href="https://mobirise.com/extensions/agencym4/">
+<img src="https://mobirise.com/assets3/images/agencym-vertical-2000.jpg">
+</a>
+
+### Mobirise v4.2.3
+
+* Bootstrap updated to latest v4.0.0-beta (for Mobirise4 theme only)
+* Fix: Fonts crush on start
+* Fix: Bug in images publishing
+* Fix: Parameters in extension blocks
+* Fix: WOWSlider extension
+* Update: Home pages in Chinese, Slovak, Polish, French, Albanian, Finnish, Swedish, Japanese, Portugal (please contact at support@mobirise.com if you find mistakes in texts)
+
+### Mobirise v4.1.6
+
+Search by font name in Google font library
+* Fix: "Browse computer for image" doesn't save last dir
+* Fix: Hot key COPY/PASTE on Mac
+* Fix: "Clone page" doesn't work with some blocks
+* Fix: Rubik Google font bug on Windows
+* Update: Home pages in German, Spanish, Danish, Norwegian, Dutch, Russian (please contact at support@mobirise.com if you find mistakes in texts)
+
 ### Mobirise v4.1
 * Brand-new core engine - the app works much faster and smoother now
 * New Mobirise4 theme - 107 new blocks
