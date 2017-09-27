@@ -5,6 +5,19 @@
 
 ### [Mobile Icons](https://mobiriseicons.com/)
 
+### Mobirise v4.3.1
+
+* Built-in "Mobirise Icons Bold" icon font
+* "Icons" extension updated. Now 8700+ icons total
+* New fonts: Icon54 v.3, Icon54 v.4, Simple Line Icons, "Font Awesome" updated
+* Site Library:
+Fixed bug with removing images that are used on site
+Fixed hanging
+Fixed bug with duplication of images
+* Mobirise4: fixed bug with buttons in 'pricing tables'
+* Fixed vimeo thumbnails in gallery
+* "Link to" dialog: "open in new window" is added to the "file" tab
+
 ### Mobirise v4.3.0
 
 * New "Link to" dialog with: Option to add files to site and link them (pdf, doc, xls, etc..); Email; Phone; Web Address
