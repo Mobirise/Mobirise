@@ -1,9 +1,5 @@
-# Mobirise
-## [Mobile Bootstrap Website Builder](https://mobirise.com/)
+# Mobirise Bootstrap Builder
 
-### [Free HTML Bootstrap Template](https://mobirise.com/free-template/)
-
-### [Free Icon Font](https://mobiriseicons.com/)
 
 ### Mobirise v4.3.1
 
@@ -77,16 +73,22 @@ Search by font name in Google font library
 * Changes in inline editor
 
 <a href="https://mobirise.com">
-<img src="https://mobirise.com/assets3/images/mobirise4-theme2.jpg">
+<img src="https://mobirise.com/assets3/images/mobirise4-theme2.jpg" alt="Free Website Builder Software">
 </a>
 
 <a href="https://mobirise.com">
-<img src="https://mobirise.com/assets3/images/mbr41.jpg">
+<img src="https://mobirise.com/assets3/images/mbr41.jpg" alt="Mobirise Free Website Builder v4">
 </a>
 
 <a href="https://mobirise.com">
-<img src="https://mobirise.com/assets3/images/mbr43.jpg">
+<img src="https://mobirise.com/assets3/images/mbr43.jpg" alt="Free Website Maker Program">
 </a>
+
+## [Free Bootstrap Website Builder](https://mobirise.com/bootstrap-builder/)
+
+### [Free HTML Bootstrap Template](https://mobirise.com/free-template/)
+
+### [Free Icon Font](https://mobiriseicons.com/)
 
 ### Mobirise v4.0 Beta
 *	Brand-new core engine - the app works much faster and smoother now
@@ -374,7 +376,7 @@ Search by font name in Google font library
 
 ### Create beautiful mobile-first websites!
 
-[MobiRise Bootstrap Website Builder](https://mobirise.com/) creates responsive, retina and mobile friendly websites in a few clicks. Easy and fast.
+[MobiRise Free Bootstrap Builder](https://mobirise.com/bootstrap-builder/) creates responsive, retina and mobile friendly websites in a few clicks. Easy and fast.
 
 ### Bootstrap 4 Template
 
@@ -507,7 +509,7 @@ Search by font name in Google font library
 <img src="http://41.media.tumblr.com/571ecb209d64b0a3f7ea4b11345520cd/tumblr_nvjhww36OS1uaw61eo1_1280.jpg">
 </a>
 
-### Main changes in v1.6:
+### Main changes in Bootstrap Builder v1.6:
 * Link now can be set to the in-page anchors (with smooth scroll) and other project pages 
 * Video background for all blocks 
 * "Preview" button to test your site in the browser
@@ -544,7 +546,7 @@ Search by font name in Google font library
 <img src="https://41.media.tumblr.com/d17404f9cdf0d84197be6365bb57ce29/tumblr_nrkmuxl8GM1uaw61eo1_540.jpg">
 </a>
 
-### Main changes in Mobirise v1.7:
+### Main changes in Bootstrap Builder v1.7:
 * New Footer, "Follow Us", "Testimonials" blocks
 * Now you can edit and reorder menu items inline 
 
@@ -564,7 +566,7 @@ Search by font name in Google font library
 <img src="https://m2.behance.net/rendition/pm/28262791/max_1200/728c2b76b22265b8c42f5f0b0a6249d7.jpg">
 </a>
 
-### Main changes in v1.8:
+### Main changes in Bootstrap Builder v1.8:
 
 * New "Publish" window
 * New Google Maps block
@@ -599,7 +601,7 @@ Search by font name in Google font library
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/028d7d28831181.55d4834eb7ba3.png">
 </a>
 
-### Main changes in v1.9:
+### Main changes in Bootstrap Builder v1.9:
 * Added Slider block
 * Fixed Share buttons
 * Hide component params / editor toolbar / colorpicker on page change or on unfocus component
@@ -616,7 +618,7 @@ Search by font name in Google font library
 </a>
 
 
-### Main changes in v1.9.7:
+### Main changes in Bootstrap Website Builder v1.9.7:
 
 * Image Gallery block - Masonry Image Gallery with Lightbox
 * Form blocks - Contact Us & Subscribe forms (NOTE: Current version doesn't have a handler to send submissions to your e-mail - will be added later.)
@@ -912,7 +914,7 @@ Whether you want to create a blog, eCommerce store, portfolio, or all of the abo
 <img src="https://41.media.tumblr.com/d17404f9cdf0d84197be6365bb57ce29/tumblr_nrkmuxl8GM1uaw61eo1_540.jpg">
 </a>
 
-### Main changes in Mobirise v1.7:
+### Main changes in Bootstrap Builder v1.7:
 * New Footer, "Follow Us", "Testimonials" blocks
 * Now you can edit and reorder menu items inline 
 
@@ -967,7 +969,7 @@ Whether you want to create a blog, eCommerce store, portfolio, or all of the abo
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/028d7d28831181.55d4834eb7ba3.png">
 </a>
 
-### Main changes in v1.9:
+### Main changes in Bootstrap Builder v1.9:
 * Added Slider block
 * Fixed Share buttons
 * Hide component params / editor toolbar / colorpicker on page change or on unfocus component
