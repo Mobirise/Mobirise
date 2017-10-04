@@ -322,7 +322,7 @@ Search by font name in Google font library
 </a>
 
 
-### What's new in Mobirise Web Site Builder v2.11: 
+### What's new in Mobirise Bootstrap Website Builder v2.11: 
 * New "Dropdown Menu" extension
 * New "PayPal Shopping Cart" extension
 * Bug fixes
@@ -335,7 +335,7 @@ Search by font name in Google font library
 <img src="https://mobirise.com/extensions/assets-psc/images/sc4-615x417-24.jpg">
 </a>
 
-### What's new in Mobirise Web Site Builder v2.10: 
+### What's new in Mobirise Bootstrap Website Builder v2.10: 
 * Adjust the top and bottom paddings of blocks
 * Now you can add captions to your gallery images
 * Bug fixes
@@ -348,7 +348,7 @@ Search by font name in Google font library
 <img src="https://mobirise.com/assets/images/v210_2.jpg">
 </a>
 
-### What's new in Mobirise Web Site Builder v2.9.10: 
+### What's new in Mobirise Bootstrap Website Builder v2.9.10: 
 * Now you can contact us directly from the app, see "Menu->Help me!"
 * New 'Cookies Alert' extension
 
@@ -360,7 +360,7 @@ Search by font name in Google font library
 <img src="https://mobirise.com/assets/images/v2910_2.jpg">
 </a>
 
-### What's new in Mobirise Web Site Builder v2.9.8: 
+### What's new in Mobirise Bootstrap Builder v2.9.8: 
 * Launched Mobirise Forum - Connect with other Mobirise users, ask questions, get answers and have some fun! Use your existing Mobirise login!
 * First 3rd party "Youplay" theme ported to Mobirise
 * New 'Twitter Feed' extension
@@ -396,7 +396,7 @@ Search by font name in Google font library
 <img src="https://41.media.tumblr.com/e8eb0be0bfb1a13c0c685bf590ef6a31/tumblr_nzclzvZtQs1uaw61eo1_1280.jpg">
 </a>
 
-### What's new in Mobirise Web Site Builder v2.9.7: 
+### What's new in Mobirise Bootstrap Builder v2.9.7: 
 * Menu: now you can change hamburger button color in parameters
 * Slider: Added 'Show Bullets' parameter, slide overlay, content alignment
 * Fixed Code Editor PHP code insertion
@@ -703,7 +703,7 @@ Whether you want to create a blog, eCommerce store, portfolio, or all of the abo
 <img src="https://mobirise.com/extensions/assets-psc/images/sc4-615x417-24.jpg">
 </a>
 
-### What's new in Mobirise Web Site Builder v2.10: 
+### What's new in Mobirise Bootstrap Builder v2.10: 
 * Adjust the top and bottom paddings of blocks
 * Now you can add captions to your gallery images
 * Bug fixes
