@@ -1,0 +1,70 @@
+@font-face {
+   font-family: 'ShoppingCart';
+    src:  url('shoppingcart.eot');
+    src:  url('shoppingcart.eot#iefix') format('embedded-opentype'),
+          url('shoppingcart.ttf') format('truetype'),
+          url('shoppingcart.woff') format('woff'),
+          url('shoppingcart.svg#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+/* 
+  font was generated with iconmoon
+*/
+
+.shoppingcart-icons.icon-local_grocery_store:before {
+    content: "\e1df";
+}
+.shoppingcart-icons.icon-card_giftcard:before {
+    content: "\e308";
+}
+
+#PPMiniCart {
+  z-index: 3000; }
+
+#PPMiniCart .minicart-subtotal{
+      right: 10px;
+      left: auto !important;
+}
+.shoppingcart-icons {
+  font-family: 'ShoppingCart';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased; }
+
+#mc-shopcart {
+  position: fixed;
+  z-index: 105;
+  display: block;
+  font-size: 50px;
+  padding: 10px;
+  color: black;
+  border-radius: 50%;
+  background-color: rgba(250, 250, 250, 0.95); }
+  #mc-shopcart span#mc-shopcart-qty {
+    font: 300 12px sans-serif;
+    position: absolute;
+    top: 2px;
+    right: -5px;
+    padding: 3px 7px;
+    white-space: nowrap;
+    color: #fff;
+    border-radius: 10px;
+    background-color: #05a; }
+    #mc-shopcart span#mc-shopcart-qty:empty {
+      display: none; }
+
+#giftcard-to-shopcart {
+  border-radius: 50%;
+  padding: 3px;
+  position: absolute;
+  z-index: 1000; }
