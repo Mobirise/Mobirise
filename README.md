@@ -3,7 +3,7 @@
 
 ### [Free HTML Bootstrap Template](https://mobirise.com/free-template/)
 
-### [Mobile Icons](https://mobiriseicons.com/)
+### [Free Icon Font](https://mobiriseicons.com/)
 
 ### Mobirise v4.3.1
 
