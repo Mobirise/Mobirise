@@ -1,6 +1,101 @@
 # Mobirise
 ## [Mobile Bootstrap Website Builder](https://mobirise.com/)
 
+### [Free HTML Bootstrap Template](https://mobirise.com/free-template/)
+
+### [Free Icon Font](https://mobiriseicons.com/)
+
+### Mobirise v4.3.1
+
+* Built-in "Mobirise Icons Bold" icon font
+* "Icons" extension updated. Now 8700+ icons total
+* New fonts: Icon54 v.3, Icon54 v.4, Simple Line Icons, "Font Awesome" updated
+* Site Library:
+Fixed bug with removing images that are used on site
+Fixed hanging
+Fixed bug with duplication of images
+* Mobirise4: fixed bug with buttons in 'pricing tables'
+* Fixed vimeo thumbnails in gallery
+* "Link to" dialog: "open in new window" is added to the "file" tab
+
+### Mobirise v4.3.0
+
+* New "Link to" dialog with: Option to add files to site and link them (pdf, doc, xls, etc..); Email; Phone; Web Address
+* Updated PayPal Shopping Cart
+* Fixed duplicated images on publishing
+* Minor fixes
+* [LawyerM4 Bootstrap Theme](https://mobirise.com/extensions/lawyerm4/) - Dark, minimal and tidy theme for lawyers, legal firms, attorneys and related legal professionals. LawyerM4 is compatible with Mobirise 4 themes - you can interchange user blocks between your projects.
+
+<a href="https://mobirise.com/extensions/agencym4/">
+<img src="https://mobirise.com/extensions/lawyerm4/assets/images/8642e532-eb22-461b-b88c-84c2a487959-2800x729.jpg">
+</a>
+
+
+### Mobirise v4.2.4
+
+* New [AgencyM4 Theme](https://mobirise.com/extensions/agencym4/). Theme for companies and agencies with 70+ blocks. New gradient overlays, working hours sections, and an extended set of dropdown menus and intro sections. AgencyM4 is compatible with Mobirise 4 Theme: you can move Mobirise4 and AgencyM4 user blocks between your projects.
+* WOW Slider extension fixed
+* Extensions updated – Social Feed, Social Comments, SoundCloud
+* Compatibility issue with some 3rd-party themes fixed (Clarus, Sleek, Unicore..)
+* Site thumbnail creation fixed
+* Fix: WOWSlider extension
+* Update: Home pages in Italian (please contact at support@mobirise.com if you find mistakes in texts)
+
+<a href="https://mobirise.com/extensions/agencym4/">
+<img src="https://mobirise.com/assets3/images/agencym-vertical-2000.jpg">
+</a>
+
+### Mobirise v4.2.3
+
+* Bootstrap updated to latest v4.0.0-beta (for Mobirise4 theme only)
+* Fix: Fonts crush on start
+* Fix: Bug in images publishing
+* Fix: Parameters in extension blocks
+* Fix: WOWSlider extension
+* Update: Home pages in Chinese, Slovak, Polish, French, Albanian, Finnish, Swedish, Japanese, Portugal (please contact at support@mobirise.com if you find mistakes in texts)
+
+### Mobirise v4.1.6
+
+Search by font name in Google font library
+* Fix: "Browse computer for image" doesn't save last dir
+* Fix: Hot key COPY/PASTE on Mac
+* Fix: "Clone page" doesn't work with some blocks
+* Fix: Rubik Google font bug on Windows
+* Update: Home pages in German, Spanish, Danish, Norwegian, Dutch, Russian (please contact at support@mobirise.com if you find mistakes in texts)
+
+### Mobirise v4.1
+* Brand-new core engine - the app works much faster and smoother now
+* New Mobirise4 theme - 107 new blocks
+* Updated interface
+* Code Editor is updated
+* Undo is added
+* Updated Mobirise Icons
+* 840 Google fonts
+* Option to add any custom fonts
+* Improved page management
+* FTP client fixes
+* Changes in inline editor
+
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/mobirise4-theme2.jpg">
+</a>
+
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/mbr41.jpg">
+</a>
+
+<a href="https://mobirise.com">
+<img src="https://mobirise.com/assets3/images/mbr43.jpg">
+</a>
+
+### Mobirise v4.0 Beta
+*	Brand-new core engine - the app works much faster and smoother now
+*	New Mobirise4 theme - 91 new blocks
+*	Updated interface
+*	Code Editor is updated
+*	Undo feature is added
+*	Updated Mobirise Icons
+
 ### Mobirise v3.12
 * Users with paid extensions can install versions of extensions they have after the end of the free update period
 * Site image library improvement - overall speed increased, you don't have to wait images loading
