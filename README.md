@@ -1,5 +1,21 @@
 # Mobirise Bootstrap Builder
 
+### Mobirise v4.3.4
+
+* Facebook and Google Authorization: Now you can sign up using your Google and Facebook accounts.
+* Clone Sites - clone not only pages, but also entire sites.
+* App settings - open your Menu->Account->App settings to adjust your app settings: show the redo button, the tablet view mode, keep the Site Styles button shown.
+* FTP publishing fixes
+* Mobirise Help Center - visit our Help Center if you have some issues, and if you can't find a solution, you can visit our forums or contact our Support Team.
+
+<img src="https://mobirise.com/assets3/images/sign-up.jpg">
+<img src="https://mobirise.com/assets3/images/clone-site.jpg">
+<img src="https://mobirise.com/assets3/images/app-settings.jpg">
+
+
+* <a href="https://mobirise.com/extensions/portfoliom4/">PortfolioM4</a> Bootstrap Theme - Modern and bright theme to present your projects - for designers, illustrators, artists, and developers. Comes with moving background intro, "typed" effect, step-by-step process, our clients, portfoilio gallery, counters, about me blocks. PortfolioM4 is compatible with Mobirise 4 themes - you can interchange user blocks between your projects.
+
+<a href="https://mobirise.com/extensions/portfoliom4/"><img src="https://mobirise.com/assets3/images/portfolio-vertical2000-min.jpg"></a>
 
 ### Mobirise v4.3.1
 
