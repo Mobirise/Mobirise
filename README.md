@@ -1,5 +1,17 @@
 # Mobirise Bootstrap Builder
 
+# Mobirise v4.3.5
+* StoreM4 Bootstrap Theme
+* App Settings: "Show All Block Buttons" option added
+* Bug Fixes:
+* Mobirise4 Theme: Fix for counters
+* Gallery Video - fixed youtube thumbnails in Mobirise 3 and Mobirise 4 compatible themes
+* Links - fixed long domain in web address
+
+<a href="https://mobirise.com/extensions/portfoliom4/">StoreM4</a> Bootstrap Theme - spacious, clean and attractive ecommerce theme designed mainly for stores. 80+ blocks for your new online shop. This theme includes several menu blocks, headers, sliders and galleries, shops, content and info sections, pricing tables, testimonials, team blocks and more. StoreM4 is compatible with Mobirise 4 themes - you can interchange user blocks between your projects.
+
+<a href="https://mobirise.com/extensions/storem4/"><img src="https://mobirise.com/assets3/images/vertical-storem4.jpg"></a>
+
 ### Mobirise v4.3.4
 
 * Facebook and Google Authorization: Now you can sign up using your Google and Facebook accounts.
