@@ -1,5 +1,12 @@
 # Mobirise Bootstrap Builder
 
+# Mobirise v4.4.0
+* Now you can crop images right in Mobirise application
+* Fixed compatibility with Internet Explorer in Mobirise 4 theme
+
+<img src="https://mobirise.com/assets3/images/crop-image.jpg">
+<img src="https://mobirise.com/assets3/images/crop-image3.jpg">
+
 # Mobirise v4.3.5
 * StoreM4 Bootstrap Theme
 * App Settings: "Show All Block Buttons" option added
