@@ -1,5 +1,14 @@
 # Mobirise Bootstrap Builder
 
+# Mobirise v4.5.0
+
+* Translation: German
+* Bug fixes for saving User blocks
+* Bug fixes for themes: Blockpack for Mobirise 3, AgencyM4, PortfolioM4, LawyerM4, DirectM, SpaceM
+To change the interface language, open the main menu in the app, select the Account tab, and open App Settings.
+
+<img src="https://mobirise.com/assets3/images/app-settings-language.jpg">
+
 # Mobirise v4.4.0
 * Now you can crop images right in Mobirise application
 * Fixed compatibility with Internet Explorer in Mobirise 4 theme
