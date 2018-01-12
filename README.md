@@ -1,5 +1,15 @@
 # Mobirise Bootstrap Builder
 
+# Mobirise AMP Website Builder
+
+The Accelerated Mobile Pages Project (AMP) is an online publishing format, originally created by Google as an alternative to Facebook’s Instant Articles. It’s a way to optimize web pages for mobile browsing using a special code–AMP-HTML.
+
+* AMP sites are loading smoothly and fast. Users like pages they don't have to wait, so you keep your visitors.
+* Goggle Search adds to AMP articles an AMP iсon, and when you use a mobile device, these pages are shown first.
+* AMP is a great solution for internet magazines, blogs and news sites.
+
+<a href="https://mobirise.com/amp-website-builder/"><img src="https://mobirise.com/amp-website-builder/assets/images/amp-themes-blocks-3000x1206.jpg"></a>
+
 # Mobirise v4.5.0
 
 * Translation: German
