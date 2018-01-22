@@ -10,6 +10,17 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="https://mobirise.com/amp-website-builder/assets/images/amp-themes-blocks-3000x1206.jpg"></a>
 
+# Mobirise v4.6.0
+
+* Hotkey: if your Sites list is empty, you can load the list of previously used projects: open your Sites list and press Ctrl+Shift+L when it opened.
+* <a href="https://mobirise.com/extensions/translator/">Mobirise Translator</a> extension: you can translate Mobirise interface to your language and share your translations with other users.
+
+### Mobirise AMP
+
+<a href="https://mobirise.com/extensions/mobiriseamp/">Mobirise AMP Theme</a> - accelerate your site with Google AMP. Check AMP theme components demos: headers, images & videos, testimonials & info, features, articles, maps & social, footers.
+
+<a href="https://mobirise.com/extensions/mobiriseamp/"><img src="https://mobirise.com/extensions/mobiriseamp/assets/images/amp-2048x707.jpg></a>
+
 # Mobirise v4.5.0
 
 * Translation: German
