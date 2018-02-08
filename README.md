@@ -10,14 +10,6 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="https://mobirise.com/amp-website-builder/assets/images/amp-themes-blocks-3000x1206.jpg"></a>
 
-# Mobirise v4.6.4
-
-* CommerceM4 theme - CommerceM4 is a new Bootstrap eCommerce theme which lets you create wonderful looking online stores.
-
-<a href="https://mobirise.com/amp-website-builder/"><img src="https://mobirise.com/amp-website-builder/assets/images/amp-themes-blocks-3000x1206.jpg"></a>
-
-<a href="https://mobirise.com/extensions/commercem4/"><img src="https://mobirise.com/extensions/commercem4/assets/images/canvas-2000x653.png"></a>
-
 # Mobirise v4.6.0
 
 * Hotkey: if your Sites list is empty, you can load the list of previously used projects: open your Sites list and press Ctrl+Shift+L when it opened.
