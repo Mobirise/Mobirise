@@ -10,6 +10,24 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="https://mobirise.com/amp-website-builder/assets/images/amp-themes-blocks-3000x1206.jpg"></a>
 
+# Mobirise v4.6.5
+
+* Bug fixes: 
+** Issue with missing projects fixed
+** Issue with missing user blocks fixed
+** Mobirise 3: sliders
+** Alignment in AgencyM4 and LawyerM4
+** Text style for forms in StoreM4
+* Languages: Polish
+
+* CommerceM4 Theme - A nice Bootstrap theme for commercial websites with some blocks to sell products. Present yourself, your products, your services, and your team. CommerceM4 is compatible with Mobirise 4 Themes. View demo templates: Cafe Demo, Shoes Demo, Headphones Demo. Check available blocks: headers, menus,images & videos, sliders & galleries, shops, features, content blocks, info blocks, team blocks and testimonials, forms & maps, pricing tables and tables, social blocks, countdowns & accordions, footers.
+
+https://mobirise.com/assets-history-4/images/commercem4-2000-q.jpg
+
+* HotelM4 Theme - Bootstrap theme for hotel and resort websites. HotelM4 is an M4 compatible theme. View live demos: menus, headers, features, images and videos, sliders and galleries, content blocks, forms, pricing tables, testimonials and team blocks, toggles and accordions, maps, info blocks, footers.
+
+https://mobirise.com/assets-history-4/images/hotelm4-2000q.jpg
+
 # Mobirise v4.6.0
 
 * Hotkey: if your Sites list is empty, you can load the list of previously used projects: open your Sites list and press Ctrl+Shift+L when it opened.
