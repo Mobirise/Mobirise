@@ -10,6 +10,19 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="https://mobirise.com/amp-website-builder/assets/images/amp-themes-blocks-3000x1206.jpg"></a>
 
+# Mobirise v4.6.6
+
+* Bug fixes for projects loading
+* AMP themes support improved
+* Image optimization improved
+* Languages: French, Slovenian, Hungarian, Polish, Croatian
+
+## BusinessM4 Theme
+
+* <a href="https://mobirise.com/extensions/businessm4/">BusinessM4 Theme</a> - Clean, light, responsive theme with gradients and shadows. Build websites to present your business and many more. BusinessM4 is compatible with Mobirise 4 Themes. View demo templates: Creative agency, Travel Agency. Check available blocks: headers, menus, images & videos, features, articles, call to action blocks, team blocks, forms & maps, pricing tables, clients & partners blocks, tabs & accordions, and footers.
+
+<a href="https://mobirise.com/extensions/businessm4/"><img src="https://mobirise.com/extensions/kit/assets/images/businessm4vertical-small.jpg"></a>
+
 # Mobirise v4.6.5
 
 * Bug fixes: Issue with missing projects fixed; Issue with missing user blocks fixed; Mobirise 3: sliders; Alignment in AgencyM4 and LawyerM4; Text style for forms in StoreM4
