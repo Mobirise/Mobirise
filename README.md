@@ -10,6 +10,12 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="https://mobirise.com/amp-website-builder/assets/images/amp-themes-blocks-3000x1206.jpg"></a>
 
+# Mobirise v4.6.7
+
+* Code Editor extension is fixed for M3 themes
+* Favicon issue is fixed
+* Minor bug fixes
+
 # Mobirise v4.6.6
 
 * Bug fixes for projects loading
