@@ -10,6 +10,20 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="https://mobirise.com/amp-website-builder/assets/images/amp-themes-blocks-3000x1206.jpg"></a>
 
+## LightAMP Theme
+
+* <a href="https://mobirise.com/extensions/lightamp/">LightAMP Theme</a> - Large set of beautiful AMP blocks including sliders, timelines, lightboxes, tables, and media blocks. Based on AMP and compatible with other AMP themes in Mobirise. View demo templates: Interior Design, Dance School, Riding School. 
+Check available blocks: headers, menus, images & videos, features, articles, forms & maps, pricing tables, toggles & accordions, and footers.
+
+<a href="https://mobirise.com/extensions/lightamp/"><img src="https://mobirise.com/extensions/kit/assets/images/light-amp-long-prev.jpg"></a>
+
+## EventAMP Theme
+
+* <a href="https://mobirise.com/extensions/eventamp/">EventAMP Theme</a> - AMP-based remake of popular Mobirise3 theme. Good to promote your special events, meetings, presentations. View demo templates: Horizon Festival, Business Meet Up, Culinary Master Class. 
+View blocks demos.
+
+<a href="https://mobirise.com/extensions/eventamp/"><img src="https://mobirise.com/extensions/kit/assets/images/event-amp-long-prev_80.jpg"></a>
+
 # Mobirise v4.6.7
 
 * Code Editor extension is fixed for M3 themes
