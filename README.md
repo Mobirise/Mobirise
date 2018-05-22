@@ -8,7 +8,29 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 * Goggle Search adds to AMP articles an AMP iсon, and when you use a mobile device, these pages are shown first.
 * AMP is a great solution for internet magazines, blogs and news sites.
 
-<a href="https://mobirise.com/amp-website-builder/"><img src="https://mobirise.com/amp-website-builder/assets/images/amp-themes-blocks-3000x1206.jpg"></a>
+<a href="https://mobirise.com/amp-website-builder/"><img src="http://ampexamples.com/ampsitebuilder/assets/images/amp-themes-blocks.jpg"></a>
+
+# Mobirise v4.7.2
+* Cookie Alert Extension updated - now it is "Cookie Alert and GDPR Compliance" - After activating GDPR compliance, all web forms on your website will have checkbox for agreeing to your Terms and Privacy Policy.
+* Code Editor Extension updated - some fixes
+* Different fixes in translation engine
+* New AMP themes - StartupAMP and SpaceAMP
+
+## StartupAMP Theme
+* <a href="https://mobirise.com/extensions/startupamp/">StartupAMP Theme</a> - AMP theme for startup websites with rounded corners and deep gradient colors. View demo templates: Best Mobile App, Co-working Template, Business School Template. 
+Check available blocks: headers, features, tabs and accordions, content blocks, sliders and videos, social blocks and maps, footers.
+
+<a href="https://mobirise.com/extensions/startupamp/"><img src="https://mobirise.com/extensions/startupamp/assets/images/bg2-1-1920x600.jpg"></a>
+
+## SpaceAMP Theme
+* <a href="https://mobirise.com/extensions/spaceamp/">SpaceAMP Theme</a> - Clean and spacious AMP theme with 60+ slick blocks. View demo templates: Apartments for Sale, Beauty Salon, Health Food Store. 
+Check available blocks: headers, subscribe and form blocks, social blocks, map blocks, footer blocks, content blocks, text and titles blocks, news and team blocks, progress bars, accordions, counters and pricing tables, images, sliders, and video blocks.
+
+<a href="https://mobirise.com/extensions/spaceamp/"><img src="https://mobirise.com/extensions/spaceamp/assets/images/preview-2000x986.jpg"></a>
+
+# Mobirise v4.7.1
+* Scroll to top Button Issue fixed
+* Images publication issue fixed
 
 ## LightAMP Theme
 
