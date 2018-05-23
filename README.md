@@ -10,6 +10,33 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="http://ampexamples.com/ampsitebuilder/assets/images/amp-themes-blocks.jpg"></a>
 
+# Mobirise v4.7.6
+* Improved block reordering and dragging
+* Bug fixes for projects loading
+* AMP themes support improved
+* Image optimization improved
+* Updated translations: Spanish, Greek, Hungarian, Polish, Italian
+* Updated login/signup dialog
+* Minor bug fixes
+* Mobirise for Android (works on Android 4.4+)
+
+<a href="https://play.google.com/store/apps/details?id=com.mobirise.mobirise"><img src="https://mobirise.com/assets-history-4/images/mbr-android-preview.jpg"></a>
+
+## HandymanAMP Theme
+* <a href="https://mobirise.com/extensions/handymanamp/">HandymanAMP Theme</a> - Perfect theme for plumber or electrician, painter or similar craftsman, construction, handyman, carpenter, craftsman workshop or repair business website. AMP themes are compatible, and you can use blocks from HandymanAMP in other AMP themes provided by Mobirise. Ready site demos: Cleaning Services, Dream House, Repair Services.
+
+<a href="https://mobirise.com/extensions/handymanamp/"><img src="https://mobirise.com/extensions/handymanamp/assets/images/handy-1-1440x700.png"></a>
+
+## BeautyAMP Theme
+* <a href="https://mobirise.com/extensions/beautyamp/">BeautyAMP Theme</a> - AMP theme for beauty studios, barber shops, tattoo salons, massage parlors, and gyms.
+
+<a href="https://mobirise.com/extensions/beautyamp/"><img src="https://mobirise.com/extensions/beautyamp/assets/images/beautyamp-2000x820.jpg"></a>
+
+## SoundAMP Theme
+* <a href="https://mobirise.com/extensions/soundamp/">SoundAMP Theme</a> - The AMP theme for music industry sites. A great choice to present music producers, DJs, singers, record studions, music labels, bands and grounps, sound pros.
+
+<a href="https://mobirise.com/extensions/soundamp/"><img src="https://mobirise.com/extensions/soundamp/assets/images/allblocks-1920x849.png"></a>
+
 # Mobirise v4.7.2
 * Cookie Alert Extension updated - now it is "Cookie Alert and GDPR Compliance" - After activating GDPR compliance, all web forms on your website will have checkbox for agreeing to your Terms and Privacy Policy.
 * Code Editor Extension updated - some fixes
