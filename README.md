@@ -118,7 +118,7 @@ View blocks demos.
 
 <a href="https://mobirise.com/extensions/mobiriseamp/">Mobirise AMP Theme</a> - accelerate your site with Google AMP. Check AMP theme components demos: headers, images & videos, testimonials & info, features, articles, maps & social, footers.
 
-<a href="https://mobirise.com/extensions/mobiriseamp/"><img src="https://mobirise.com/extensions/mobiriseamp/assets/images/amp-2048x707.jpg"></a>
+<a href="https://8b.com/"><img src="https://mobirise.com/extensions/mobiriseamp/assets/images/amp-2048x707.jpg" alt="free website builder"></a>
 
 # Mobirise v4.5.0
 
