@@ -10,6 +10,24 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="http://ampexamples.com/ampsitebuilder/assets/images/amp-themes-blocks.jpg"></a>
 
+## FitnessAMP Theme
+* <a href="https://mobirise.com/extensions/fitnessamp/">FitnessAMP Theme</a> - The AMP theme for music industry sites.
+
+<a href="https://mobirise.com/extensions/fitnessamp/"><img src="https://mobirise.com/extensions/fitnessamp/assets/images/0-1920x900.png"></a>
+
+## ArchitectAMP Theme
+* <a href="https://mobirise.com/extensions/architectamp/">ArchitectAMP</a> - The AMP theme for architectural building, exterior design, and construction business owners.
+
+<a href="https://mobirise.com/extensions/architectamp/"><img src="https://mobirise.com/extensions/architectamp/assets/images/preview-1980x1201.png"></a>
+
+# Mobirise v4.7.7
+* Improved app loading
+* Fixed inserting icons in menu in m3 themes
+* Fixed and updated translations
+* Fixed disappearance of text placeholders
+* Select all text on first click
+* Fixed font dropdown panel height
+
 # Mobirise v4.7.6
 * Improved block reordering and dragging
 * Bug fixes for projects loading
