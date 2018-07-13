@@ -11,7 +11,7 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 <a href="https://mobirise.com/amp-website-builder/"><img src="http://ampexamples.com/ampsitebuilder/assets/images/amp-themes-blocks.jpg"></a>
 
 # Mobirise v4.8
-* <strong>Mobirise Publish Option Beta:</strong> try this option to publish your site with our hosting service and .mobirisesite.com domain.
+<strong>Mobirise Publish Option Beta:</strong> try this option to publish your site with our hosting service and .mobirisesite.com domain.
 * This option is available for projects created with M4 and AMP themes.
 * Your site name should contain Latin letters, you can also use numbers in your domain name, but the name should contain a letter anyway.
 * Your site name should contain at least 6 characters.
