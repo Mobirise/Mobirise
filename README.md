@@ -10,6 +10,30 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="http://ampexamples.com/ampsitebuilder/assets/images/amp-themes-blocks.jpg"></a>
 
+# Mobirise v4.8
+* <strong>Mobirise Publish Option Beta:</strong> try this option to publish your site with our hosting service and .mobirisesite.com domain.
+* This option is available for projects created with M4 and AMP themes.
+* Your site name should contain Latin letters, you can also use numbers in your domain name, but the name should contain a letter anyway.
+* Your site name should contain at least 6 characters.
+* Some words are not allowed.
+* The limitation is 3 domains for a user.
+* You can remove your site domain in Site Settings for your projects.
+
+<img src="https://mobirise.com/assets-history-4/images/publish-beta.jpg">
+
+# Mobirise v4.7.8
+* Bug Fixes for AMP Themes: video autoplay, map layout, video lightbox.
+
+## ResumeAMP Theme
+* <a href="https://mobirise.com/extensions/resumeamp/">ResumeAMP Theme</a> - Lovely and creative AMP theme for creating online resumes. It is great for starting online profiles and portfolios. 
+
+<a href="https://mobirise.com/extensions/resumeamp/"><img src="https://mobirise.com/extensions/resumeamp/assets/images/scrin1-2000x978.jpg"></a>
+
+## WeddingAMP Theme
+* <a href="https://mobirise.com/extensions/weddingamp/">WeddingAMP Theme</a> - The lovely AMP theme for weddings, celebrations, and event planners. 
+
+<a href="https://mobirise.com/extensions/weddingamp/"><img src="https://mobirise.com/extensions/weddingamp/assets/images/457546546-1710x700.png"></a>
+
 ## FitnessAMP Theme
 * <a href="https://mobirise.com/extensions/fitnessamp/">FitnessAMP Theme</a> - The AMP theme for music industry sites.
 
