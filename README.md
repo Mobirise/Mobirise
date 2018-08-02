@@ -10,6 +10,16 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="http://ampexamples.com/ampsitebuilder/assets/images/amp-themes-blocks.jpg"></a>
 
+## RealtyM4 Theme
+* <a href="https://mobirise.com/extensions/realtym4/">RealtyM4 Theme</a> - An ultimate and modern real estate theme. It fulfills needs of realtors, agencies, real estate holdings when it comes to creating responsive and versatile websites to sell properties online. 
+
+<a href="https://mobirise.com/extensions/realtym4/"><img src="https://mobirise.com/extensions/realtym4/assets/images/realtym4-5.png"></a>
+
+## OrganicAMP Theme
+* <a href="https://mobirise.com/extensions/organicamp/">OrganicAMP Theme</a> - Mouth-watering and trendy AMP theme for building online food stores. It's ideal for launching vegetarian food shops, cooking websites and healthy nutrition pages.
+
+<a href="https://mobirise.com/extensions/organicamp/"><img src="https://mobirise.com/extensions/organicamp/assets/images/all-blocks1.png"></a>
+
 # Mobirise v4.8
 <strong>Mobirise Publish Option Beta:</strong> try this option to publish your site with our hosting service and .mobirisesite.com domain.
 * This option is available for projects created with M4 and AMP themes.
