@@ -10,6 +10,18 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="http://ampexamples.com/ampsitebuilder/assets/images/amp-themes-blocks.jpg"></a>
 
+# Mobirise v4.8
+New Publish option allows you to put the site online with a single click, to be viewed by the public with your subdomain at mobirisesite.com
+What's included:
+* Custom subdomain on mobirisesite.com (eg https://sitename.mobirisesite.com)
+* SSL certificate (url with https)
+* Lightning-fast global CDN (Content Delivery Network)
+* Unlimited pages
+* Unlimited space and bandwidth
+<strong>IMPORTANT!</strong> Currently this option is in beta status - please use it for testing only. The subdomains can be removed without a notice.
+
+<img src="https://mobirise.com/assets-history-4/images/publish-beta.jpg">
+
 ## RealtyM4 Theme
 * <a href="https://mobirise.com/extensions/realtym4/">RealtyM4 Theme</a> - An ultimate and modern real estate theme. It fulfills needs of realtors, agencies, real estate holdings when it comes to creating responsive and versatile websites to sell properties online. 
 
@@ -19,17 +31,6 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 * <a href="https://mobirise.com/extensions/organicamp/">OrganicAMP Theme</a> - Mouth-watering and trendy AMP theme for building online food stores. It's ideal for launching vegetarian food shops, cooking websites and healthy nutrition pages.
 
 <a href="https://mobirise.com/extensions/organicamp/"><img src="https://mobirise.com/extensions/organicamp/assets/images/all-blocks1.png"></a>
-
-# Mobirise v4.8
-<strong>Mobirise Publish Option Beta:</strong> try this option to publish your site with our hosting service and .mobirisesite.com domain.
-* This option is available for projects created with M4 and AMP themes.
-* Your site name should contain Latin letters, you can also use numbers in your domain name, but the name should contain a letter anyway.
-* Your site name should contain at least 6 characters.
-* Some words are not allowed.
-* The limitation is 3 domains for a user.
-* You can remove your site domain in Site Settings for your projects.
-
-<img src="https://mobirise.com/assets-history-4/images/publish-beta.jpg">
 
 # Mobirise v4.7.8
 * Bug Fixes for AMP Themes: video autoplay, map layout, video lightbox.
