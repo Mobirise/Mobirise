@@ -22,6 +22,18 @@ What's included:
 
 <img src="https://mobirise.com/assets-history-4/images/publish-beta.jpg">
 
+## SchoolAMP Theme
+
+* <a href="https://mobirise.com/extensions/schoolamp/">SchoolAMP</a> - A trendy and neat looking theme for online schools. Use this theme to create a website for your school, courses, online lessons, and other educational services.
+
+<a href="https://mobirise.com/extensions/schoolamp/"><img src="https://mobirise.com/extensions/schoolamp/assets/images/allscreens2-1998x891.jpg"></a>
+
+## EducationM4 Theme
+
+* <a href="https://mobirise.com/extensions/educationm4/">EducationM4</a> - A flexible and modern educational theme. It is suitable for schools, colleges, online courses, and other educational institutions.
+
+<a href="https://mobirise.com/extensions/educationm4/"><img src="https://mobirise.com/extensions/educationm4/assets/images/edu.jpg"></a>
+
 ## RealtyM4 Theme
 * <a href="https://mobirise.com/extensions/realtym4/">RealtyM4 Theme</a> - An ultimate and modern real estate theme. It fulfills needs of realtors, agencies, real estate holdings when it comes to creating responsive and versatile websites to sell properties online. 
 
