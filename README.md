@@ -10,6 +10,32 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="http://ampexamples.com/ampsitebuilder/assets/images/amp-themes-blocks.jpg"></a>
 
+# Mobirise v4.8.6
+* Mobirise Icons are available for AMP themes now
+* Mobirise 2 Icons added
+
+<a href="https://mobirise.com/extensions/appamp/"><img src="https://mobirise.com/assets-history-4/images/mobirise-2-icons-set.jpg"></a>
+
+# Mobirise v4.8.4
+* Publishing issues fixed
+* Scroll-to-top button issues fixed
+* Minor bug fixes
+
+## AppAMP Theme
+* <a href="https://mobirise.com/extensions/appamp/">AppAMP</a> is a neat AMP theme best suited for landing pages showcasing your mobile and desktop apps.
+
+<a href="https://mobirise.com/extensions/appamp/"><img src="https://mobirise.com/extensions/appamp/assets/images/polotno-1920.png"></a>
+
+## ConsultingAMP Theme
+
+* <a href="https://mobirise.com/extensions/consultingamp/">ConsultingAMP</a> - an exclusive AMP theme to create a site for consulting and other professional services. 
+
+<a href="https://mobirise.com/extensions/consultingamp/"><img src="https://mobirise.com/extensions/consultingamp/assets/images/09.png"></a>
+
+# Mobirise v4.8.2
+* Bug fixes: broken themes, galleries
+* Stability improvements: projects list, project saving, restoring projects
+
 # Mobirise v4.8
 New Publish option allows you to put the site online with a single click, to be viewed by the public with your subdomain at mobirisesite.com
 What's included:
