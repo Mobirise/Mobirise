@@ -10,6 +10,16 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="http://ampexamples.com/ampsitebuilder/assets/images/amp-themes-blocks.jpg"></a>
 
+## StrategyAMP Theme
+* <a href="https://mobirise.com/extensions/strategyamp/">StrategyAMP</a> is a solid, informative, laconic and smart template for strategies of any business spheres: design, content, social media, sales, and business development. It is also suitable for consulting agencies to present services and make them plain and attractive for clients.
+
+<a href="https://mobirise.com/extensions/strategyamp/"><img src="https://mobirise.com/assets-history-4/images/strategyamp-preview.jpg"></a>
+
+## ChurchAMP Theme
+* <a href="https://mobirise.com/extensions/churchamp/">ChurchAMP</a> is a modern theme designed for churches and religious movements around the world. It is also suitable for creating a charity or charitable foundation website.
+
+<a href="https://mobirise.com/extensions/churchamp/"><img src="https://mobirise.com/assets-history-4/images/churchamp-preview.jpg"></a>
+
 # Mobirise v4.8.6
 * Mobirise Icons are available for AMP themes now
 * Mobirise 2 Icons added
