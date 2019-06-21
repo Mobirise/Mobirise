@@ -10,6 +10,146 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="http://ampexamples.com/ampsitebuilder/assets/images/amp-themes-blocks.jpg"></a>
 
+## Popup Builder
+* Create a modal/popup/lightbox with text, image, video, form. <a href="https://mobirise.com/extensions/popup-builder/">Live demo</a>
+
+<img src="https://mobirise.com/assets-history-4/images/popupdemo1.jpg">
+
+<img src="https://mobirise.com/assets-history-4/images/popupdemo2.jpg">
+
+
+
+# Mobirise v4.10.3
+* Mobirise 4 Theme fixes: user blocks, smooth scrolling, card blocks, galleries
+* Form Builder fixes
+
+## PoliticsM4 Theme
+* <a href="https://mobirise.com/extensions/politicsm4/">PoliticsM4 Theme</a> - If you represent a party, candidate, political organization or social movement, this theme will be your best match. It's perfect for government sites, campaign pages and other political websites.
+
+<a href="https://mobirise.com/extensions/politicsm4/"><img src="https://mobirise.com/assets-history-4/images/politicsm4-preview1200.jpg"></a>
+
+## IndustryM4 Theme
+* <a href="https://mobirise.com/extensions/industrym4/">IndustryM4 Theme</a> - An eye-catching industrial website theme. Promote your company services and advertise your industrial business with a professionally built website.
+
+<a href="https://mobirise.com/extensions/industrym4/"><img src="https://mobirise.com/assets-history-4/images/industry-preview.jpg"></a>
+
+# Mobirise v4.10.1
+* Site Library is optimized (it should work much faster now)
+* Form fixes: the app doesn't hang if the long email addresses are used, forms work correctly in IE, minor fixes
+* Issue with duplicating IDs on cloned pages fixed
+* Mobirise 4 theme fixes: background video, features blocks
+* Batch images adding: small fixes
+* Smooth scroll fixed for M and M4 themes
+
+# Mobirise v4.10
+* Code Editor improvements
+* Reverse mode for timeline blocks
+* Remove unused CSS from AMP pages. This option is available in Site Settings. It noticeably reduces the number of CSS rules on a page and makes the size of inline CSS smaller. CSS you use on your page should not be larger than 50,000 bytes. Otherwise, pages are not AMP-valid. Use the option if you have many blocks on your pages. Please check carefully if your page elements are displayed correctly with this option enabled.
+
+<img src="https://mobirise.com/assets-history-4/images/unused-css.jpg">
+
+* Bug fixes: menu block fixes; the active undo button in new projects disabled; italic/bold text color is preserved now; '$1' is shown after publication; lightbox incorrect size fixed; the reveal effect in Mobirise 4 footers is disabled for IE; images renaming fixed when use batch adding and 'Resize Images' turned off; other minor fixed.
+
+## TechM4 Theme
+* <a href="https://mobirise.com/extensions/techm4/">TechM4 Theme</a> - This theme helps you build a powerful online presence for your tech business. Save time and effort when creating a top-notch website for your tech company.
+
+<a href="https://mobirise.com/extensions/techm4/"><img src="https://mobirise.com/extensions/techm4/assets/images/techm4.jpg"></a>
+
+## CompanyAMP Theme
+* <a href="https://mobirise.com/extensions/companyamp/">CompanyAMP Theme</a> - Stylish and universal theme for any type of companies. When building your company landing page, consider this captivating theme that sparks everyone's interest.
+
+<a href="https://mobirise.com/extensions/companyamp/"><img src="https://mobirise.com/extensions/companyamp/assets/images/companyamp.png"></a>
+
+
+## SimpleAMP Theme
+* <a href="https://mobirise.com/extensions/simpleamp/">SimpleAMP Theme</a> - Сreate neat and trim websites for service agencies, shops, and creatives. This mutipurpose template contains more than 50 various blocks.
+
+<a href="https://mobirise.com/extensions/simpleamp/"><img src="https://mobirise.com/extensions/simpleamp/assets/images/fullview-2796x1214.jpg"></a>
+
+## TasteM4 Theme
+* <a href="https://mobirise.com/extensions/tastem4/">TasteM4 Theme</a> is a fantastic and flexible clothing website theme. Benefit from the ready-made layouts. Build a website to your taste and present your brand in the best possible way.
+
+<a href="https://mobirise.com/extensions/tastem4/"><img src="https://mobirise.com/extensions/tastem4/assets/images/tastem4-1.jpg"></a>
+
+# Mobirise v4.9.7
+* Extensions Social Feed, SoundCloud, Facebook Comments supported in AMP themes
+* Online Image Library now saves the last active tab
+* All themes are updated: small fixes and new FormBuilder extension support
+
+## FormBuilder Extension
+Use the drag-n-drop builder to draw up the form you want. <a href="https://mobirise.com/extensions/form-builder/">Learn more</a>
+* Create forms with complex layout, set the width of form fields
+* Add your own labels, placeholders, default values, and input patterns
+* Use the built-in Mobirise solution to receive submissions or use your own Action URL
+
+<img src="https://mobirise.com/assets-history-4/images/form-builder1.jpg">
+
+# Mobirise v4.9.5
+* New "Add Block" panel: now with block categories
+
+<img src="https://mobirise.com/assets-history-4/images/block-categories-shown.jpg">
+
+* Online Image Library: enlarged preview on hover
+
+<img src="https://mobirise.com/assets-history-4/images/awesome-online-gallery-update.jpg">
+
+* Updated Mobirise4 and MobiriseAMP themes: fixes, new blocks
+* Code Editor: fixed inserting scripts to custom HTML block
+* Fix for menus (scroll-line on mobile view)
+* Fixed tags in image galleries
+
+# Mobirise v4.9.3
+* 'Update All' button for extensions with a progress bar
+
+<img src="https://mobirise.com/assets-history-4/images/update-all.jpg">
+
+* Adding images by drag and drop in Image Media
+
+<img src="https://mobirise.com/assets-history-4/images/drag-image.jpg">
+
+* Adding multiple images at once to sliders and galleries (non-AMP themes)
+* Updated M4 themes to latest Bootstrap v4.2.1
+* Updated free MobiriseAMP theme - 20 new blocks: gallery, slider, accordion, contact forms, testimonials, google maps.
+* Code Editor loading speed improved
+* Bug fixes for Google Maps
+* Fixes for editing menu colors
+* Fixes with page cloning
+
+## LifestyleAMP Theme
+* <a href="https://mobirise.com/extensions/lifestyleamp/">LifestyleAMP Theme</a> - Easily create a personal, fashion, relationshop and lifestyle website that will be a real eye candy and inspiration for everyone.
+
+<a href="https://mobirise.com/extensions/lifestyleamp/"><img src="https://mobirise.com/extensions/lifestyleamp/assets/images/lifestyle.png"></a>
+
+## WorkshopAMP Theme
+* <a href="https://mobirise.com/extensions/workshopamp/">WorkshopAMP Theme</a> - If you offer repair services and have a workshop, this is the right theme for you.
+
+<a href="https://mobirise.com/extensions/workshopamp/"><img src="https://mobirise.com/extensions/workshopamp/assets/images/workshopamp-demo-compressed-1920x758.jpg"></a>
+
+## GamingAMP Theme
+* <a href="https://mobirise.com/extensions/gamingamp/">GamingAMP Theme</a> is a dark and neat design will excite and entertain every video game fan that visits your website.
+
+<a href="https://mobirise.com/extensions/gamingamp/"><img src="https://mobirise.com/extensions/gamingamp/assets/images/full-2216x873.jpg"></a>
+
+# Mobirise v4.9.1
+* Code Editor update:
+* Mobirise mentions removal - clear the HTML code from "made with Mobirise" etc..
+* New color schemes - light and contrast
+* Undo-Redo buttons
+
+<img src="https://mobirise.com/assets-history-4/images/code-editor-new.jpg">
+
+* PayPal Shopping Cart update:
+* Support for AMP themes
+* Subscribe and Donate options
+* Info on "How to add shipping, VAT, and tax."
+
+<img src="https://mobirise.com/assets-history-4/images/paypalcarttab.jpg">
+
+* Mobirise 4 default theme update: 15 new blocks, fixes
+* AMP Canonical URL for AMP sites. Menu -> Sites -> Site Settings.
+* Bug Fixes
+
+
 ## StrategyAMP Theme
 * <a href="https://mobirise.com/extensions/strategyamp/">StrategyAMP</a> is a solid, informative, laconic and smart template for strategies of any business spheres: design, content, social media, sales, and business development. It is also suitable for consulting agencies to present services and make them plain and attractive for clients.
 
