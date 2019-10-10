@@ -22,17 +22,17 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 * Mobirise4 theme: fixed gallery styles, fixed line height
 
 ## LuxuryM4 Theme
-* LuxuryM4 Theme. Wish to impress clients with your online luxury store? Easily create one in no longer than a few hours with this exclusive theme.
+* <a href="https://mobirise.com/extensions/luxurym4/">LuxuryM4 Theme</a> - Wish to impress clients with your online luxury store? Easily create one in no longer than a few hours with this exclusive theme.
 
 <a href="https://mobirise.com/extensions/luxurym4/"><img src="https://mobirise.com/extensions/luxurym4/assets/images/screen-1920x661.jpg"></a>
 
 ## TrainingAMP Theme
-* TrainingAMP Theme. Creating a great website for sport gyms, workout clubs and individual sportsmen with this website theme is just like 123. Start your own sport website with ease!
+* <a href="https://mobirise.com/extensions/trainingamp/">TrainingAMP Theme</a> - Creating a great website for sport gyms, workout clubs and individual sportsmen with this website theme is just like 123. Start your own sport website with ease!
 
 <a href="https://mobirise.com/extensions/trainingamp/"><img src="https://mobirise.com/extensions/trainingamp/assets/images/trainingamp-2880x1752.png"></a>
 
 ## InsightAMP Theme
-* InsightAMP Theme. Impressive corporate template for creating clean and minimalist websites for any kind of business. Increase yur brand exposure with this creative template.
+* <a href="https://mobirise.com/extensions/insightamp/">InsightAMP Theme</a> - Impressive corporate template for creating clean and minimalist websites for any kind of business. Increase yur brand exposure with this creative template.
 
 <a href="https://mobirise.com/extensions/insightamp/"><img src="https://mobirise.com/extensions/insightamp/assets/images/insightamp-3108x1382.jpg"></a>
 
@@ -43,12 +43,12 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 * Facebook authorization fixed for Social Feed (partly)
 
 ## PhotoM4 Theme
-* PhotoM4 Theme. Ideal theme for professional and hobby photographers. Build a stylish and clean website to impress anyone with beautiful galleries and portfolios.
+* <a href="https://mobirise.com/extensions/luxurym4/">PhotoM4 Theme</a> - Ideal theme for professional and hobby photographers. Build a stylish and clean website to impress anyone with beautiful galleries and portfolios.
 
 <a href="https://mobirise.com/extensions/luxurym4/"><img src="https://mobirise.com/extensions/luxurym4/assets/images/screen-1920x661.jpg"></a>
 
 ## WoodM4 Theme
-* WoodM4 Theme. Have a carpentry shop, forestry manufacture or timber company? This theme helps you present your woodworks excellently.
+* <a href="https://mobirise.com/extensions/woodm4/">WoodM4 Theme</a> - Have a carpentry shop, forestry manufacture or timber company? This theme helps you present your woodworks excellently.
 
 <a href="https://mobirise.com/extensions/woodm4/"><img src="https://mobirise.com/extensions/woodm4/assets/images/woodm4-2880x1248.jpg"></a>
 
@@ -57,7 +57,7 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 * Countdown blocks updated: floating point numbers supported now
 * The issue with adding global components fixed
 
-<a href="https://mobirise.com/"><img src="https://mobirise.com/assets-history-4/images/google-captcha.jpg"></a>
+<img src="https://mobirise.com/assets-history-4/images/google-captcha.jpg">
 
 # Mobirise v4.10.7
 * Mobirise AMP: new slider block with bullets, new manager for galleries and sliders, you can select the link type now: to full screen image or to your link
@@ -67,26 +67,26 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 * Mobirise Publish: now you can publish sites made in M themes
 * Fixes for shop blocks
 
-<a href="https://mobirise.com/"><img src="https://mobirise.com/assets-history-4/images/preview-g-s.jpg"></a>
+<img src="https://mobirise.com/assets-history-4/images/preview-g-s.jpg">
 
 
 ## PersonaM4 Theme
-* PersonaM4 Theme. A modern and lovely Bootstrap theme for creatives, freelancers, professionals, and creative studios.
+* <a href="https://mobirise.com/extensions/personam4/">PersonaM4 Theme</a> - A modern and lovely Bootstrap theme for creatives, freelancers, professionals, and creative studios.
 
 <a href="https://mobirise.com/extensions/personam4/"><img src="https://mobirise.com/assets-history-4/images/personam4-preview.jpg"></a>
 
 ## CorporateAMP Theme
-* CorporateAMP Theme. A minimalistic and laconic AMP theme for brands and digital agencies.
+* <a href="https://mobirise.com/extensions/corporateamp/">CorporateAMP Theme</a> - A minimalistic and laconic AMP theme for brands and digital agencies.
 
 <a href="https://mobirise.com/extensions/corporateamp/"><img src="https://mobirise.com/assets-history-4/images/corporateamp-preview.jpg"></a>
 
 ## ShopAMP Theme
-* ShopAMP Theme. An easy-to-use multipurpose AMP theme for creating websites to promote and offer every kind of services online.
+* <a href="https://mobirise.com/extensions/shopamp/">ShopAMP Theme</a> - An easy-to-use multipurpose AMP theme for creating websites to promote and offer every kind of services online.
 
 <a href="https://mobirise.com/extensions/shopamp/"><img src="https://mobirise.com/assets-history-4/images/shopamp-preview.jpg"></a>
 
 ## DepotAMP Theme
-* DepotAMP Theme. This elegant theme is perfect for stores to showcase goods, inform about discounts, present prices, and highlight special offers.
+* <a href="https://mobirise.com/extensions/depotamp/">DepotAMP Theme</a> - This elegant theme is perfect for stores to showcase goods, inform about discounts, present prices, and highlight special offers.
 
 <a href="https://mobirise.com/extensions/depotamp/"><img src="https://mobirise.com/assets-history-4/images/depotamp-preview.jpg"></a>
 
@@ -99,9 +99,9 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 * Code Editor is available offline for a longer time
 * Popup Builder improvements: created popup blocks are available on all pages, minor fixes
 
-<a href="https://mobirise.com/"><img src="https://mobirise.com/assets-history-4/images/templates-for-themes.jpg"></a>
+<img src="https://mobirise.com/assets-history-4/images/templates-for-themes.jpg">
 
-<a href="https://mobirise.com/"><img src="https://mobirise.com/assets-history-4/images/global-blocks.jpg"></a>
+<img src="https://mobirise.com/assets-history-4/images/global-blocks.jpg">
 
 # Mobirise v4.10.5
 * Link Editor updated: messenger link types are added
