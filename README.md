@@ -10,6 +10,119 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="http://ampexamples.com/ampsitebuilder/assets/images/amp-themes-blocks.jpg"></a>
 
+
+# Mobirise v4.11.2
+* Update of Code Editor extension. New features: Edit Block Anchor, Edit Site Styles.
+* Edit user block name
+* Choose a Social sharing image
+* New Site Settings interface
+* Fixed saving Site Styles
+* Fixed publish Popup Builder on several pages in amp themes
+* Fixed captcha
+* Mobirise4 theme: fixed gallery styles, fixed line height
+
+## LuxuryM4 Theme
+LuxuryM4 Theme. Wish to impress clients with your online luxury store? Easily create one in no longer than a few hours with this exclusive theme.
+Live Demos: Luxury Watch Store, Luxury Shop, Accessories.
+Live demo blocks: Headers and Maps, Image and Video, Titles and Shop, Features and Social, Content and Footers, Forms and Team and Info.
+luxury website Theme and Templates
+
+## TrainingAMP Theme
+TrainingAMP Theme. Creating a great website for sport gyms, workout clubs and individual sportsmen with this website theme is just like 123. Start your own sport website with ease!
+Live Demos: Perfomance Gym, Workout Meeting.
+Live demo blocks: Headers / Features / Info, Content / Testimonials / Video, Maps / Forms / Footers.
+sport website Theme and Templates
+
+## InsightAMP Theme
+InsightAMP Theme. Impressive corporate template for creating clean and minimalist websites for any kind of business. Increase yur brand exposure with this creative template.
+Live Demos: Agency Website, Product Promo.
+Live demo blocks: Headers / Features / Content, Team / Images / Video, Socials / Forms / Footers.
+insight website Theme and Templates
+
+# Mobirise v4.10.10
+FormBuilder updated: The reCAPTCHA label support
+PWA Builder updated: iOS Support
+M4 optimization
+Facebook authorization fixed for Social Feed (partly)
+
+## PhotoM4 Theme
+PhotoM4 Theme. Ideal theme for professional and hobby photographers. Build a stylish and clean website to impress anyone with beautiful galleries and portfolios.
+Live Demos: Photographer, Photo Studio, Photography Shop.
+Live demo blocks: Headers and Features, Content and Shop, Pricing and Countres, Team and Testimonials, Progress and Images, Slider and Video, Socials and Forms, Maps and Footers.
+
+## WoodM4 Theme
+WoodM4 Theme. Have a carpentry shop, forestry manufacture or timber company? This theme helps you present your woodworks excellently.
+Live Demos: Wooden Workshop, Wooden Furniture Store.
+Live demo blocks: Headers / Features / Content, Slider / Shop / Team, Accordions / Video / Image, Forms / Map / Footers.
+
+# Mobirise v4.10.8
+* Form Builder updated. reCAPTCHA support and form submissions w/o the Mobirise label. More info
+* Countdown blocks updated: floating point numbers supported now
+* The issue with adding global components fixed
+
+# Mobirise v4.10.7
+* Mobirise AMP: new slider block with bullets, new manager for galleries and sliders, you can select the link type now: to full screen image or to your link
+* Page Settings: preview of your page in Google Search
+* Remove unused CSS for AMP: fixes
+* Batch adding images to gallery: fixes
+* Mobirise Publish: now you can publish sites made in M themes
+* Fixes for shop blocks
+
+
+## PersonaM4 Theme
+PersonaM4 Theme. A modern and lovely Bootstrap theme for creatives, freelancers, professionals, and creative studios.
+Live Demos: Portfolio Demo, Creative Studio Demo, Craft Shop Demo.
+Live demo blocks: Headers / Features / Content, Countries / Images / Progress, Info / Countdowns / Pricing, Video / Accordions / Tabs, Clients / Form / Social / Shop, Testimonials / Maps / Footers.
+
+## CorporateAMP Theme
+CorporateAMP Theme. A minimalistic and laconic AMP theme for brands and digital agencies.
+Live Demos: Security Consultants, Digital Agency.
+Live demo blocks: Headers, Features, Call to action, Articles, Images and Video, Testimonials and Team, FAQ, Contacts, Footers.
+
+
+## ShopAMP Theme
+ShopAMP Theme. An easy-to-use multipurpose AMP theme for creating websites to promote and offer every kind of services online.
+Live Demos: Clothing Store, Food Store.
+Live demo blocks: Headers, Features / Content, Shop, Sliders & Gallery, Testimonials & Forms, Contacts / Map / Footer.
+
+
+## DepotAMP Theme
+DepotAMP Theme. This elegant theme is perfect for stores to showcase goods, inform about discounts, present prices, and highlight special offers.
+Live Demos: Furniture Store, Book Store, Fabric Store.
+Live demo blocks: Headers and Features, Images and Gallery, Shops, Pricing and Progress, Clients and Testimonials, Forms and Videos, Socials and Maps, Footers.
+
+
+# Mobirise v4.10.6
+* Templates for sites are available in the app now
+* Placeholder on empty pages
+* The Search field in the Extensions list added
+* The Crop Image functionality fixed
+* Global blocks can be added on all pages and removed from all pages
+* Code Editor is available offline for a longer time
+* Popup Builder improvements: created popup blocks are available on all pages, minor fixes
+
+# Mobirise v4.10.5
+* Link Editor updated: messenger link types are added
+* New thumbnails for extensions, the Create New Site dialog is updated
+* Image crop feature updated, fixed for jpg images
+* Fixed disappearing parameter buttons in top right corner of block
+* Minor fixes for Mobirise4
+* Fix update style of global component
+Extensions:
+* PayPal Shopping Cart is updated: new look
+* TechM4: new blocks, update for an accordion block
+* PoliticsM4: reverse block feature for a team block
+* Bug fixes in SimpleAMP, BusinessM4, AgencyM4
+
+# Mobirise v4.10.4
+* Editing extension blocks in M themes fixed (for example, popup builder)
+* The menu fix in the MobiriseAMP theme
+* The dropdown menu fix in M4 themes
+* The gallery now keeps images in User Blocks
+* The Extensions list is updated
+
+
+
 ## Popup Builder
 * Create a modal/popup/lightbox with text, image, video, form. <a href="https://mobirise.com/extensions/popup-builder/">Live demo</a>
 
