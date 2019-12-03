@@ -10,6 +10,33 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="http://ampexamples.com/ampsitebuilder/assets/images/amp-themes-blocks.jpg"></a>
 
+## KidsM4 Theme
+* <a href="https://mobirise.com/extensions/kidsm4/">KidsM4 Theme</a> - A cute website template perfect for preschools and babysitting. It also suits online stores selling children clothes and toys. Create a kids related site with ease!
+
+<a href="https://mobirise.com/extensions/kidsm4/"><img src="https://mobirise.com/extensions/kidsm4/assets/images/screen2-1920x762.jpg"></a>
+
+## PetsM4 Theme
+* <a href="https://mobirise.com/extensions/petsm4/">PetsM4 Theme</a> - Contemporary pets website template. It's the ideal choice for animal care organizations, veterinarians and animal clinics.
+
+<a href="https://mobirise.com/extensions/petsm4/"><img src="https://mobirise.com/extensions/petsm4/assets/images/petsm4-2940x1524.jpg"></a>
+
+# Mobirise v4.11.5
+* Issue with images in AMP themes fixed
+* M4 themes are updates with fixes for gallery and shop block filters
+
+# Mobirise v4.11.4
+* Cookies Alert update: added the 'Explicit Consent' option which creates a cookie modal
+* Mobirise4 Theme: fix color change for 'table1' block
+* Editing galleries fixed
+* The LazyLoad extension is available
+
+<img src="https://mobirise.com/assets-history-4/images/cookie-alert-modal.jpg">
+
+## CourseAMP Theme
+* <a href="https://mobirise.com/extensions/courseamp/">CourseAMP Theme</a> - Sleek courses website theme spiced up with nice-looking designs and exciting animations. It's the best fit for online schools and web courses
+Live Demos: University, Consulting.
+
+<a href="https://mobirise.com/extensions/courseamp/"><img src="https://mobirise.com/extensions/courseamp/assets/images/demo-1920x1239.jpg"></a>
 
 # Mobirise v4.11.2
 * Update of Code Editor extension. New features: Edit Block Anchor, Edit Site Styles.
