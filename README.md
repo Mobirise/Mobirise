@@ -10,6 +10,44 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="http://ampexamples.com/ampsitebuilder/assets/images/amp-themes-blocks.jpg"></a>
 
+# Mobirise v4.12
+* Important: After the 4.12 is installed, update your extensions in "Menu->Extensions->Update All" and then restart the Mobirise
+* Compatibility with MacOs Catalina
+* FTP profile is filled from a project file
+* User Blocks search added
+* Issues with project import/export with different fonts fixed
+* Fixed saving the Resize Images site setting
+* Blockpack for M4
+* Minor fixes
+
+
+## DinerM4
+* <a href="https://mobirise.com/extensions/dinerm4/">DinerM4</a> - Great Bootstrap cafe theme. It's the perfect choice for owners of pizzerie, tea-houses, cafeterias and other restaurants.
+
+<a href="https://mobirise.com/extensions/dinerm4/"><img src="https://mobirise.com/assets-history-4/images/dinerm4-1200.jpg"></a>
+
+## AudioM4
+* <a href="https://mobirise.com/extensions/audiom4/">AudioM4</a> - Need a stunning website for your songs? Feel free to use this exceptional music theme with great looking designs!
+
+<a href="https://mobirise.com/extensions/audiom4/"><img src="https://mobirise.com/assets-history-4/images/audiom4-1200.jpg"></a>
+
+## BlockPack for M4
+* <a href="https://mobirise.com/extensions/blockpackm4/">BlockPack for M4</a> - 350+ best and most unique blocks from premium Mobirise themes. Compatible with all M4 themes.
+
+<a href="https://mobirise.com/extensions/blockpackm4/"><img src="https://mobirise.com/assets-history-4/images/bp-demo-h.jpg"></a>
+
+## InnovationAMP
+* <a href="https://mobirise.com/extensions/innovationamp/">InnovationAMP</a> - Multipurpose theme for corporate and science websites. Let your future website look innovative and ultra-modern!
+
+<a href="https://mobirise.com/extensions/innovationamp/"><img src="https://mobirise.com/assets-history-4/images/innovation-demo-h.jpg"></a>
+
+## BranchM4
+* <a href="https://mobirise.com/extensions/branchm4/">BranchM4</a> - Well-designed corporate theme for small and medium businesses. Use this theme to create a website for your company or agency with a unique and professional look.
+
+<a href="https://mobirise.com/extensions/branchm4/"><img src="https://mobirise.com/extensions/branchm4/assets/images/branchm4-1-2880x1497.jpg"></a>
+
+
+
 ## KidsM4 Theme
 * <a href="https://mobirise.com/extensions/kidsm4/">KidsM4 Theme</a> - A cute website template perfect for preschools and babysitting. It also suits online stores selling children clothes and toys. Create a kids related site with ease!
 
