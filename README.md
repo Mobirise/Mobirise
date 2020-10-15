@@ -10,6 +10,106 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="http://ampexamples.com/ampsitebuilder/assets/images/amp-themes-blocks.jpg"></a>
 
+# Mobirise 5.2
+## Core
+* <b>Bootstrap</b> version updated in the app to 4.5.2 
+* <b>Electron</b> version updated in the app to v10
+
+## Interface
+* New <b>Blocks Menu</b> panel. Browse through blocks more conveniently due to the enlarged page view
+
+<img src="https://mobirise.com/assets-history-5/images/add_blocks.jpg">
+
+* <b>Spellchecker</b>: check and correct mistakes directly in the app
+* <b>Add Blocks List</b>: all compatible blocks are available w/o theme reloading and user blocks. Select a compatible theme to see a blocks list
+
+<img src="https://mobirise.com/assets-history-5/images/blocks_from.jpg">
+
+* <b>Pages List</b>: Search available
+
+<img src="https://mobirise.com/assets-history-5/images/pages.jpg">
+
+* You can download all the extensions available for you. Open the Extensions list and press <b>Ctrl+Shift+A</b>
+* <b>Don't show again</b> option for remove block, create site and open site dialogs.
+* Updated <b>Remove Unused Images</b>
+* Faster <b>Sites</b> panel
+
+## Mobirise 5 theme
+* <b>Ghost Button Border</b> option in <b>Site Styles</b>
+* 5 new blocks - headers and footers
+* <b>Logo Size</b> option for footers
+* Fixes in some block designs
+* Fix with tab anchor renaming
+* Duplicated code and CSS removed
+* Some fixes in block designs
+
+## Fixes
+* Fix in Code Editor "click twice to save"
+* Fix for "Social Sharing Image"
+* Fix for sorting blocks
+* Google maps fix
+* Code syntax verification fix in Code Editor
+* Fix for custom HTML in M3
+
+# Mobirise 5.0
+## Core
+* <b>Brand-new engine</b>. The app is upto 2 time faster, especially on large projects. 
+* <b>Bootstrap</b> version updated in the app to 4.5.0 
+* <b>jQuery</b> version updated in the app to v3.5.1
+* Themes can be added faster (the app is not reloading if the theme is not current)
+
+## Interface
+* <b>Light/Dark mode</b>. The Light mode is enabled by default in the app now. But if it's more comfortable for your to use the dark mode, open app settings (Menu -> Account -> App Settings -> Editor -> Dark Mode)
+* The <b>Remove Unused Images</b> button added in Site Library.
+* Sites published on Mobirise servers are shown in the Sites list now. If you remove them, they will not be available online anymore
+* New Sites panel available in the app. Now it's in a full-screen mode
+* Image Editor: New function in <b>Image Editor</b>: <b>Rotate</b>
+* Favicon and page name are shown in navbar
+* Canvas with borders. You can disable this feature in your app settings (Menu -> Account -> App Settings -> Editor -> Fullscreen Canvas).
+* You can connect your site domain with the site published via the <b>Mobirise Publish</b> option. Find this feature in your Site Settings after publishing your site.
+
+<img src="https://mobirise.com/assets-history-5/images/new-sites-list-1002x602.jpg">
+<i>New Sites List view available in Mobirise 5</i>
+
+<img src="https://mobirise.com/assets-history-5/images/dark-mode-1002x602.jpg">
+<i>You can enable Dark Mode in App Settings</i>
+
+<img src="https://mobirise.com/assets-history-5/images/edit-canvas-1002x602.jpg">
+<i>You can disable your project borders by enabling the Fullscreen Canvas option</i>
+
+<img src="https://mobirise.com/assets-history-5/images/remove-unused-images-1002x602.jpg">
+<i>Clear your site library by removing images you don't use in a project</i>
+
+<img src="https://mobirise.com/assets-history-5/images/link-domain-1002x602.jpg">
+<i>The site domain settings will appear in your Site Settings after publishing your site via the Mobirise Publish option</i>
+
+## Fixes
+* Saving user blocks is fixed
+* <b>AMP Cache issue</b> fixed. Earlier some of our users faced some issues with AMP blocks: galleries, sliders, accordions were not usable because of saved cached files. There was no simple way to clear the cache folder. This issue is fixed now.
+* Sliders and Galleries optimized in the app. This fix may not affect already created galleries, but new galleries and sliders should work faster
+* <b>Mobirise 4 Theme</b>: youtu.be links are supported, forms are cleared after submitting, gallery and form fixes
+* <b>MobiriseAMP Theme</b>: update menu, fixed 'scroll to top button'
+* Issue with $ symbols cleared is fixed
+* Parallax fixes
+* Link Editor: WhatsApp link fixed  
+* Form Builder fixes
+* Google Maps fixed
+
+## Extensions
+* <b>Code Editor: Global HTML Insert</b> available in Site Settings. You can add the HTML lang tag in it and add code snippets to the various parts of your pages. Since this feature is global, your code will be added to all pages in your project.
+* <b>New default theme</b> available in the app: <b>Mobirise 5</b>. Start a new project and select the Mobirise 5 theme to check it.
+
+<img src="https://mobirise.com/assets-history-5/images/global-html-insert-1002x602.jpg">
+<i>Install the Code Editor extension to find the Global HTML Insert tab in Site Settings</i>
+
+# Mobirise v4.12.4
+* LazyLoad Extension fixes
+* Social Icons are updated
+* Form Builder Small fixes
+* youtu.be links are supported now
+* Fixed saving the Resize Images site setting
+* Minor fixes
+
 # Mobirise v4.12
 * Important: After the 4.12 is installed, update your extensions in "Menu->Extensions->Update All" and then restart the Mobirise
 * Compatibility with MacOs Catalina
@@ -19,7 +119,6 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 * Fixed saving the Resize Images site setting
 * Blockpack for M4
 * Minor fixes
-
 
 ## DinerM4
 * <a href="https://mobirise.com/extensions/dinerm4/">DinerM4</a> - Great Bootstrap cafe theme. It's the perfect choice for owners of pizzerie, tea-houses, cafeterias and other restaurants.
