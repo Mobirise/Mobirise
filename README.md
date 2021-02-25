@@ -10,6 +10,116 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="http://ampexamples.com/ampsitebuilder/assets/images/amp-themes-blocks.jpg"></a>
 
+# Mobirise 5.3
+
+## Interface
+### Design
+* New loader look
+* Scrollbar styling added
+
+<img src="https://mobirise.com/assets-history-5/images/scrollbar.png">
+
+* Added dark inline editor panel in the dark mode
+
+<img src="https://mobirise.com/assets-history-5/images/dark-inline.png">
+
+### Sites management
+* Now you can create sites based on a template from another theme
+* Sites panel - search by name & domain added
+* Create New Site panel - newest themes shown on top of the list
+* Search through all templates when adding a new page: go to Pages and click Create New Page to see the list of available templates
+
+<img src="https://mobirise.com/assets-history-5/images/temps.jpg">
+
+### Drag Block to Page panel
+* Search through all Mobirise blocks
+
+<img src="https://mobirise.com/assets-history-5/images/search.jpg">
+
+* Added Show More buttons at the end of each blocks' group
+
+<img src="https://mobirise.com/assets-history-5/images/by-block.jpg">
+
+* Updated block groups (added new block groups, renamed and sorted the old ones) for free Mobirise themes
+* Added shadows to the show more blocks button on hover
+* Added new blocks categories to default themes, fixed the search for similar blocks
+
+### Domain connection
+* Updated DNS records: new DNS record types available
+* Connecting domain via CNAME record added
+
+### Extensions panel
+* Added Add All button
+
+<img src="https://mobirise.com/assets-history-5/images/add-all.jpg">
+
+### Code Editor
+* Highlight matching tags in HTML
+
+<img src="https://mobirise.com/assets-history-5/images/highlight.jpg">
+
+### Icons
+* SVG icons instead of iconfont files in pages to improve loading speed
+
+### Other updates
+* Improved loading speed of user sites by optimized connection of Google Fonts
+* If there is something wrong with the project code, you'll see a note about an issue
+
+
+## Themes
+### Mobirise 5
+* Added compatibility with the Form Builder extension
+* Fixes for alignment on mobile devices
+* Fixes for logo images in the navbar
+* Fixed the scroll-to-top arrow on mobile view
+* Added paddings to the logo in the menu
+* Socicon plugin font now supports "font-display: swap" for better optimization
+* Fixed menu brand name underline
+* New block categories
+
+### AudioM4
+* Features 3, 4, 6: Changed background images to usual img, to have an opportunity to insert link on image
+* Features 4, 6: Added the ability to disable swinging and glare animation
+* Added square cards option (square music album covers are the industry standard)
+* Added range parameter to change size of cover
+* Added buttons option (if all animation is enabled, there may be problems with following the link in the image, despite the accepted changes)
+
+### LuxuryM4
+* Fixed incompatibility issues with Mobirise 5
+* Fixed broken logos in the menu
+* Aligning pictures in team2
+* Moving the send button in form1 and form3, an extra once global attributes in form 2
+
+### BusinessM4
+* Fixed images in Clients1
+* Renamed all images in clients-white folder, to avoid intersections with images from clients folder after publication or preview
+
+### TherapyM4
+* Fixed team2 uneditable card content
+* Added pointer-events rules, to be able to edit the text and link that appear on image hover
+
+### KidsM4
+* Fixes for options for menu background & text color option on mobile
+
+### ConnectM4
+* Reduced resolution to upscale the font-size from 1200 to 1199px and 992 to 991px
+
+### KidsM4 & AgencyM4
+* Fixed incompatibility issues with Mobirise 5, fixed the codestyle and menu, added theme classes
+
+### LightAMP
+* Fixed bugs in menus
+
+## Fixes
+* Github publishing method fixed
+* Fixed and updated DNS records: new DNS record types available
+* Extensions panel - fixed the search
+* Fixed the position for the custom HTML block
+* Fixes for the theme installation when choosing an unavailable theme
+* App Settings - fixed saving Remove Mobirise from HTML setting
+* Link-editor: fixed shop links in AMP themes
+* Fixes for the fonts connection issue
+
 # Mobirise 5.2
 ## Core
 * <b>Bootstrap</b> version updated in the app to 4.5.2 
