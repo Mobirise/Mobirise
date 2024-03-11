@@ -1,6 +1,6 @@
-# Mobirise Bootstrap Builder
+# Mobirise AI Website Builder
 
-# Mobirise 5.8
+# Mobirise 5.9
 
 ## Interface
 ### Design
