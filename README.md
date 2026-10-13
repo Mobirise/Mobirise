@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://r.mobirisesite.com/1316353/assets/images/new-icon-512-svg.png" width="88" alt="Mobirise logo">
+  <a href="https://ai.mobirise.com/"><img src="https://r.mobirisesite.com/1316353/assets/images/new-icon-512-svg.png" width="88" alt="Mobirise logo"></a>
 </p>
 
-# Mobirise
+# [Mobirise AI Website Builder](https://ai.mobirise.com/)
 
 Mobirise is a free website builder. Describe your site in a prompt and Mobirise AI builds the first version, or start from a theme. Then change anything in the visual drag-and-drop editor or in chat with AI.
 
