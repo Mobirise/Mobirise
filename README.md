@@ -55,10 +55,6 @@ All versions: [history.mobirisesite.com](https://history.mobirisesite.com/)
 
 All releases since version 1.6: [CHANGELOG.md](CHANGELOG.md)
 
-## Free templates
-
-The [bootstrap-templates](bootstrap-templates) folder has 46 free templates made with Mobirise 3 and 4 on Bootstrap 4: business, agency, portfolio, store, restaurant, hotel, wedding, landing pages and more. Each folder holds the exported site and its `project.mobirise` file.
-
 ## Help
 
 - Help Center: [mobirise.com/help](https://mobirise.com/help/)
