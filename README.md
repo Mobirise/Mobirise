@@ -8,7 +8,7 @@ Mobirise is a free website builder. Describe your site in a prompt and Mobirise 
 
 Mobirise runs in the browser and as a desktop app for Windows, Mac and Linux. Both are the same Mobirise with the same features. The desktop app also works offline; AI and publishing need an internet connection.
 
-Mobirise is free for personal and commercial use. It is not open source: this repository holds the release notes and a set of free templates, not the source code of the app.
+Mobirise is free for personal and commercial use. It is not open source: this repository holds the release notes, not the source code of the app.
 
 Website: [mobirise.com](https://mobirise.com/) · Mobirise AI: [ai.mobirise.com](https://ai.mobirise.com/)
 
